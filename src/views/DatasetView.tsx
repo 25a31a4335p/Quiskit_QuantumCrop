@@ -299,8 +299,8 @@ export const DatasetView: React.FC = () => {
         <MetricCard
           label="Records Filtered"
           value={filteredRecords.length}
-          unit={`of ${HISTORICAL_RECORDS.length} total`}
-          subtext="ICAR / DES Open Dataset"
+          unit={`of ${records.length} total`}
+          subtext={uploadInfo ? 'User Uploaded CSV' : 'ICAR / DES Open Dataset'}
           icon={<Database className="w-4 h-4 text-emerald-800" />}
         />
         <MetricCard

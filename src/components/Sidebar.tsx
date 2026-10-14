@@ -156,8 +156,8 @@ export const Sidebar: React.FC<SidebarProps> = ({
             </p>
           </div>
           <div className="mt-3 flex items-center justify-between text-[11px] text-slate-400 px-1 font-mono">
-            <span>v1.4 Qiskit-Sim</span>
-            <span>6-Qubit PQC</span>
+            <span>PennyLane · ML</span>
+            <span>VQR & Ensembles</span>
           </div>
         </div>
       </aside>

@@ -88,7 +88,11 @@ export default function App() {
             <div className="flex items-center gap-4 text-[11px] font-mono text-slate-400">
               <span>Benchmark: ICAR & DAC&FW Open Agronomic Data</span>
               <span>·</span>
-              <span>Deterministic Demo Engine v1.4</span>
+              <span>
+                {currentResult.isDemoMode
+                  ? 'Physiological Simulation Engine v1.4'
+                  : 'Empirical ML Engine (XGBoost / RF / PennyLane VQR)'}
+              </span>
             </div>
           </div>
         </footer>
