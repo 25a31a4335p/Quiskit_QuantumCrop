@@ -1,0 +1,1501 @@
+Record_ID,State,Crop,Season,Rainfall_mm,Fertilizer_kg_per_ha,Area_ha,Yield_tonnes_per_ha,Production_tonnes
+ICAR-0001,Tamil Nadu,Cotton,Kharif,458.1,120.5,4.2,1.84,7.8
+ICAR-0002,Andhra Pradesh,Maize,Rabi,862.6,128.4,1.5,3.04,4.6
+ICAR-0003,Bihar,Maize,Kharif,737.6,51.1,14.1,1.8,25.4
+ICAR-0004,Rajasthan,Sugarcane,Whole Year,840.0,292.0,15.7,50.59,795.3
+ICAR-0005,Maharashtra,Sugarcane,Whole Year,1469.2,440.7,1.5,67.77,101.7
+ICAR-0006,Rajasthan,Soybean,Kharif,1047.7,86.4,23.5,1.21,28.5
+ICAR-0007,Karnataka,Sugarcane,Whole Year,1655.4,312.7,27.2,60.43,1641.1
+ICAR-0008,Rajasthan,Cotton,Kharif,235.6,117.2,63.7,1.3,82.9
+ICAR-0009,Karnataka,Mustard,Rabi,419.1,75.6,46.5,1.23,57.2
+ICAR-0010,Karnataka,Bajra (Pearl Millet),Kharif,598.4,61.7,8.1,1.2,9.7
+ICAR-0011,Punjab,Soybean,Kharif,1023.2,88.6,32.6,1.73,56.5
+ICAR-0012,Tamil Nadu,Soybean,Kharif,758.0,38.3,1.6,1.26,2.1
+ICAR-0013,Tamil Nadu,Groundnut,Kharif,826.2,98.7,8.0,1.65,13.2
+ICAR-0014,Haryana,Rice (Paddy),Kharif,1717.9,202.8,17.0,3.93,66.9
+ICAR-0015,West Bengal,Bajra (Pearl Millet),Kharif,391.6,54.6,9.4,1.44,13.6
+ICAR-0016,Tamil Nadu,Mustard,Rabi,352.3,108.3,6.5,1.46,9.5
+ICAR-0017,Tamil Nadu,Sugarcane,Whole Year,2115.9,377.3,51.3,65.09,3338.3
+ICAR-0018,Gujarat,Bajra (Pearl Millet),Kharif,448.3,54.1,59.3,1.23,73.0
+ICAR-0019,Punjab,Soybean,Kharif,448.6,48.6,4.5,1.33,6.0
+ICAR-0020,Punjab,Sugarcane,Whole Year,3200.0,203.8,4.6,47.72,219.8
+ICAR-0021,Karnataka,Soybean,Kharif,652.8,66.9,7.3,1.47,10.8
+ICAR-0022,Haryana,Rice (Paddy),Kharif,788.6,142.5,1.5,4.18,6.3
+ICAR-0023,Maharashtra,Rice (Paddy),Kharif,998.6,122.3,16.8,3.16,53.1
+ICAR-0024,Gujarat,Rice (Paddy),Kharif,1579.0,134.2,102.5,3.29,337.2
+ICAR-0025,Andhra Pradesh,Rice (Paddy),Kharif,816.6,116.2,1.5,3.48,5.2
+ICAR-0026,Haryana,Bajra (Pearl Millet),Kharif,496.2,32.1,25.9,1.13,29.3
+ICAR-0027,Madhya Pradesh,Soybean,Kharif,576.5,102.5,69.0,1.56,107.7
+ICAR-0028,West Bengal,Wheat,Rabi,310.5,161.7,42.5,3.62,153.8
+ICAR-0029,West Bengal,Cotton,Kharif,328.0,116.1,2.4,1.44,3.5
+ICAR-0030,Haryana,Sugarcane,Whole Year,2550.2,323.8,54.5,68.96,3760.3
+ICAR-0031,Karnataka,Rice (Paddy),Rabi,1535.7,186.3,21.7,3.34,72.6
+ICAR-0032,West Bengal,Wheat,Rabi,424.1,136.8,29.4,3.39,99.8
+ICAR-0033,West Bengal,Cotton,Kharif,494.1,136.0,9.8,1.79,17.6
+ICAR-0034,Tamil Nadu,Sugarcane,Whole Year,2599.1,349.1,2.5,71.08,174.8
+ICAR-0035,Haryana,Chickpea (Gram),Rabi,261.7,34.0,90.3,1.11,100.2
+ICAR-0036,Gujarat,Wheat,Rabi,412.3,180.7,27.6,3.61,99.8
+ICAR-0037,Punjab,Maize,Rabi,450.8,155.2,1.5,3.51,5.3
+ICAR-0038,Bihar,Maize,Rabi,794.8,115.5,85.0,2.62,222.8
+ICAR-0039,Haryana,Rice (Paddy),Rabi,879.5,76.4,47.6,2.52,120.0
+ICAR-0040,West Bengal,Bajra (Pearl Millet),Kharif,311.8,63.1,21.1,1.49,31.4
+ICAR-0041,Karnataka,Wheat,Rabi,459.2,85.4,52.5,2.92,153.2
+ICAR-0042,Gujarat,Chickpea (Gram),Rabi,521.8,26.4,41.4,0.72,29.8
+ICAR-0043,Haryana,Wheat,Rabi,531.1,280.3,40.0,4.89,195.7
+ICAR-0044,Bihar,Sugarcane,Whole Year,2422.6,183.2,2.5,39.06,96.4
+ICAR-0045,Tamil Nadu,Chickpea (Gram),Rabi,258.5,38.9,100.2,1.03,103.2
+ICAR-0046,Punjab,Cotton,Kharif,787.0,44.3,44.0,1.14,50.1
+ICAR-0047,Bihar,Maize,Kharif,1248.6,186.4,25.4,1.97,50.0
+ICAR-0048,Punjab,Groundnut,Kharif,660.5,56.3,2.0,1.65,3.4
+ICAR-0049,Maharashtra,Bajra (Pearl Millet),Kharif,277.3,89.9,4.8,1.49,7.1
+ICAR-0050,Andhra Pradesh,Soybean,Kharif,655.6,43.5,77.5,1.31,101.5
+ICAR-0051,Tamil Nadu,Maize,Rabi,398.3,128.2,3.2,2.95,9.4
+ICAR-0052,Punjab,Cotton,Kharif,680.9,133.1,10.6,2.01,21.4
+ICAR-0053,Maharashtra,Mustard,Rabi,310.3,86.8,1.5,1.34,2.0
+ICAR-0054,Karnataka,Maize,Kharif,859.9,112.7,22.0,2.59,57.1
+ICAR-0055,Gujarat,Cotton,Kharif,251.9,152.3,25.8,1.78,45.9
+ICAR-0056,Maharashtra,Sugarcane,Whole Year,570.2,322.1,5.8,60.13,348.1
+ICAR-0057,Bihar,Wheat,Rabi,467.4,113.2,10.3,2.8,28.7
+ICAR-0058,Rajasthan,Bajra (Pearl Millet),Kharif,588.8,37.7,17.1,0.77,13.2
+ICAR-0059,Rajasthan,Maize,Rabi,894.1,131.1,33.2,2.3,76.4
+ICAR-0060,Rajasthan,Maize,Kharif,888.7,187.3,32.9,2.93,96.4
+ICAR-0061,Madhya Pradesh,Wheat,Rabi,527.5,70.4,50.5,2.17,109.5
+ICAR-0062,Tamil Nadu,Mustard,Rabi,394.5,65.8,58.2,1.28,74.5
+ICAR-0063,Madhya Pradesh,Soybean,Kharif,1052.9,63.5,12.3,1.33,16.4
+ICAR-0064,Madhya Pradesh,Sugarcane,Whole Year,1413.8,208.3,2.4,52.77,126.9
+ICAR-0065,Bihar,Soybean,Kharif,421.4,75.7,73.1,1.3,95.0
+ICAR-0066,Maharashtra,Bajra (Pearl Millet),Kharif,413.2,92.6,86.6,1.49,129.0
+ICAR-0067,West Bengal,Bajra (Pearl Millet),Kharif,392.0,61.5,45.6,1.28,58.3
+ICAR-0068,West Bengal,Wheat,Rabi,389.6,68.3,21.8,2.65,57.7
+ICAR-0069,Punjab,Chickpea (Gram),Rabi,284.4,42.1,37.5,1.07,40.2
+ICAR-0070,Rajasthan,Sugarcane,Whole Year,2789.1,278.4,1.5,42.05,63.1
+ICAR-0071,Bihar,Bajra (Pearl Millet),Kharif,493.3,73.8,43.3,1.37,59.3
+ICAR-0072,Bihar,Soybean,Kharif,1187.2,39.6,50.7,0.89,45.2
+ICAR-0073,Andhra Pradesh,Maize,Rabi,228.6,141.6,1.5,3.1,4.7
+ICAR-0074,West Bengal,Wheat,Rabi,282.1,111.6,8.7,3.29,28.7
+ICAR-0075,Punjab,Maize,Rabi,887.6,126.6,1.5,3.31,5.0
+ICAR-0076,Bihar,Maize,Rabi,912.4,136.7,12.3,2.45,30.1
+ICAR-0077,Bihar,Wheat,Rabi,324.3,77.8,7.5,2.46,18.5
+ICAR-0078,West Bengal,Rice (Paddy),Kharif,1228.4,164.0,4.4,3.63,16.1
+ICAR-0079,Haryana,Chickpea (Gram),Rabi,204.4,69.7,67.5,1.32,89.1
+ICAR-0080,Punjab,Wheat,Rabi,405.6,63.2,87.6,3.12,273.3
+ICAR-0081,Gujarat,Rice (Paddy),Kharif,1345.7,119.7,19.1,3.04,58.1
+ICAR-0082,Tamil Nadu,Maize,Kharif,726.0,108.7,3.5,2.6,9.0
+ICAR-0083,Haryana,Cotton,Kharif,936.8,72.9,24.1,1.36,32.7
+ICAR-0084,Rajasthan,Bajra (Pearl Millet),Kharif,339.6,87.9,18.4,1.33,24.4
+ICAR-0085,Bihar,Rice (Paddy),Rabi,1431.0,196.4,16.4,3.43,56.1
+ICAR-0086,Uttar Pradesh,Sugarcane,Whole Year,1554.4,299.6,98.4,66.27,6520.0
+ICAR-0087,Uttar Pradesh,Wheat,Rabi,579.7,210.0,2.4,4.12,9.8
+ICAR-0088,Punjab,Groundnut,Kharif,992.9,59.9,18.5,1.65,30.6
+ICAR-0089,Punjab,Maize,Kharif,274.6,118.0,15.4,3.15,48.4
+ICAR-0090,Gujarat,Sugarcane,Whole Year,2054.0,97.3,22.0,40.53,890.6
+ICAR-0091,Gujarat,Chickpea (Gram),Rabi,259.2,52.6,29.8,1.18,35.2
+ICAR-0092,Gujarat,Wheat,Rabi,412.9,76.7,43.1,2.85,122.9
+ICAR-0093,Uttar Pradesh,Bajra (Pearl Millet),Kharif,365.8,41.4,5.8,1.23,7.1
+ICAR-0094,Gujarat,Soybean,Kharif,170.9,69.1,29.1,1.17,34.0
+ICAR-0095,Karnataka,Rice (Paddy),Rabi,1327.9,141.5,19.2,3.01,57.9
+ICAR-0096,Bihar,Mustard,Rabi,356.9,115.1,1.6,1.36,2.2
+ICAR-0097,Gujarat,Groundnut,Kharif,706.8,49.7,46.5,1.4,65.1
+ICAR-0098,Haryana,Soybean,Kharif,1118.3,53.8,20.8,1.5,31.1
+ICAR-0099,Punjab,Mustard,Rabi,359.2,55.3,6.6,1.31,8.7
+ICAR-0100,Rajasthan,Sugarcane,Whole Year,470.3,255.0,21.9,51.85,1137.5
+ICAR-0101,Andhra Pradesh,Wheat,Rabi,778.3,184.2,20.8,3.05,63.4
+ICAR-0102,Madhya Pradesh,Bajra (Pearl Millet),Kharif,228.9,34.5,17.2,1.07,18.4
+ICAR-0103,Andhra Pradesh,Maize,Kharif,594.0,111.4,4.1,2.86,11.9
+ICAR-0104,Gujarat,Groundnut,Kharif,514.3,16.2,101.0,0.76,76.7
+ICAR-0105,Andhra Pradesh,Wheat,Rabi,575.6,135.7,1.5,3.7,5.6
+ICAR-0106,Andhra Pradesh,Sugarcane,Whole Year,2084.4,327.6,19.1,68.83,1317.7
+ICAR-0107,Rajasthan,Sugarcane,Whole Year,1528.6,321.5,86.0,50.48,4343.6
+ICAR-0108,Madhya Pradesh,Rice (Paddy),Rabi,1529.4,150.9,8.5,2.96,25.2
+ICAR-0109,Maharashtra,Cotton,Kharif,981.5,54.4,11.5,1.22,14.1
+ICAR-0110,Rajasthan,Wheat,Rabi,143.7,169.2,7.3,2.9,21.3
+ICAR-0111,Maharashtra,Soybean,Kharif,1007.6,100.3,15.9,1.38,22.0
+ICAR-0112,Punjab,Maize,Rabi,434.2,99.8,67.6,3.32,224.3
+ICAR-0113,Gujarat,Soybean,Kharif,698.7,43.9,65.2,1.23,80.3
+ICAR-0114,Maharashtra,Sugarcane,Whole Year,2113.3,313.1,27.4,57.65,1577.0
+ICAR-0115,Rajasthan,Cotton,Kharif,965.3,53.7,28.7,1.06,30.4
+ICAR-0116,Haryana,Chickpea (Gram),Rabi,327.0,15.0,21.5,0.74,15.9
+ICAR-0117,Punjab,Rice (Paddy),Kharif,1612.9,47.1,59.2,1.78,105.4
+ICAR-0118,Andhra Pradesh,Sugarcane,Whole Year,1980.8,155.8,3.7,52.28,196.0
+ICAR-0119,Punjab,Cotton,Kharif,875.9,162.2,151.8,2.03,308.1
+ICAR-0120,Gujarat,Mustard,Rabi,473.7,67.1,31.3,1.16,36.3
+ICAR-0121,Maharashtra,Bajra (Pearl Millet),Kharif,518.0,50.8,2.9,1.32,3.9
+ICAR-0122,Maharashtra,Cotton,Kharif,633.3,141.8,25.6,1.72,44.1
+ICAR-0123,Haryana,Cotton,Kharif,321.5,119.3,10.6,1.59,16.9
+ICAR-0124,Rajasthan,Bajra (Pearl Millet),Kharif,579.0,63.2,23.6,1.28,30.3
+ICAR-0125,Karnataka,Cotton,Kharif,591.8,153.0,1.8,1.64,2.9
+ICAR-0126,Rajasthan,Cotton,Kharif,626.6,111.8,22.4,1.44,32.2
+ICAR-0127,Maharashtra,Soybean,Kharif,613.0,83.9,38.8,1.43,55.4
+ICAR-0128,Madhya Pradesh,Soybean,Kharif,923.2,37.3,62.7,0.79,49.5
+ICAR-0129,Gujarat,Sugarcane,Whole Year,2097.2,151.5,4.5,42.37,191.7
+ICAR-0130,Rajasthan,Wheat,Rabi,592.7,90.3,81.1,2.56,207.7
+ICAR-0131,Punjab,Cotton,Kharif,540.2,104.6,144.2,2.0,288.4
+ICAR-0132,Tamil Nadu,Sugarcane,Whole Year,1837.3,296.6,5.7,63.77,366.0
+ICAR-0133,Punjab,Groundnut,Kharif,261.8,78.7,31.3,2.18,68.2
+ICAR-0134,Punjab,Wheat,Rabi,757.1,192.1,2.7,3.89,10.6
+ICAR-0135,Karnataka,Mustard,Rabi,331.6,86.9,7.9,1.22,9.6
+ICAR-0136,Tamil Nadu,Mustard,Rabi,564.7,85.9,26.9,1.15,30.9
+ICAR-0137,Punjab,Soybean,Kharif,640.4,54.7,27.9,1.51,42.1
+ICAR-0138,Punjab,Groundnut,Kharif,726.2,60.3,32.0,1.79,57.3
+ICAR-0139,Karnataka,Cotton,Kharif,305.5,80.3,2.3,1.36,3.1
+ICAR-0140,Maharashtra,Sugarcane,Whole Year,2285.0,394.9,60.4,65.24,3938.7
+ICAR-0141,Maharashtra,Cotton,Kharif,1013.8,93.3,11.3,1.46,16.5
+ICAR-0142,West Bengal,Wheat,Rabi,344.5,115.7,91.8,3.52,323.0
+ICAR-0143,Bihar,Groundnut,Kharif,656.1,46.0,105.6,1.13,119.3
+ICAR-0144,Uttar Pradesh,Sugarcane,Whole Year,1723.5,422.9,30.0,69.71,2091.5
+ICAR-0145,West Bengal,Mustard,Rabi,425.6,48.0,13.7,1.16,15.9
+ICAR-0146,Andhra Pradesh,Wheat,Rabi,631.3,182.5,17.2,3.91,67.4
+ICAR-0147,Uttar Pradesh,Rice (Paddy),Kharif,1700.3,159.8,5.8,3.64,21.0
+ICAR-0148,West Bengal,Maize,Kharif,1053.8,162.7,13.0,2.85,36.9
+ICAR-0149,Rajasthan,Wheat,Rabi,531.5,101.7,2.2,2.4,5.2
+ICAR-0150,Maharashtra,Groundnut,Kharif,746.1,81.1,32.0,1.63,52.1
+ICAR-0151,Karnataka,Sugarcane,Whole Year,1719.6,326.6,77.0,59.46,4579.9
+ICAR-0152,Rajasthan,Cotton,Kharif,456.2,69.3,46.1,1.07,49.3
+ICAR-0153,Punjab,Wheat,Rabi,374.4,219.6,10.6,4.59,48.4
+ICAR-0154,Gujarat,Groundnut,Kharif,233.6,34.6,42.7,1.07,45.7
+ICAR-0155,Maharashtra,Sugarcane,Whole Year,2191.7,148.1,11.2,37.33,417.9
+ICAR-0156,Karnataka,Sugarcane,Whole Year,1657.5,348.6,26.9,63.85,1716.3
+ICAR-0157,Andhra Pradesh,Chickpea (Gram),Rabi,560.2,58.9,1.5,1.11,1.7
+ICAR-0158,Tamil Nadu,Rice (Paddy),Kharif,1300.6,87.5,9.4,3.17,29.7
+ICAR-0159,Maharashtra,Mustard,Rabi,404.7,70.2,88.6,1.18,104.5
+ICAR-0160,Madhya Pradesh,Mustard,Rabi,433.5,105.5,25.9,1.15,29.7
+ICAR-0161,Karnataka,Sugarcane,Whole Year,1260.9,510.3,54.1,58.03,3137.7
+ICAR-0162,Tamil Nadu,Mustard,Rabi,509.0,84.3,39.1,1.17,45.7
+ICAR-0163,West Bengal,Wheat,Rabi,100.0,158.5,52.3,3.08,161.1
+ICAR-0164,Uttar Pradesh,Mustard,Rabi,100.0,65.2,67.4,1.03,69.4
+ICAR-0165,Gujarat,Mustard,Rabi,668.2,60.4,7.9,0.86,6.8
+ICAR-0166,Tamil Nadu,Cotton,Kharif,697.3,81.2,2.9,1.51,4.4
+ICAR-0167,Karnataka,Wheat,Rabi,291.8,100.1,1.5,2.64,4.0
+ICAR-0168,Karnataka,Cotton,Kharif,433.1,142.5,72.4,1.56,112.9
+ICAR-0169,Gujarat,Wheat,Rabi,633.8,193.2,18.0,3.61,64.9
+ICAR-0170,Rajasthan,Soybean,Kharif,692.0,81.7,10.8,1.29,13.9
+ICAR-0171,Maharashtra,Chickpea (Gram),Rabi,330.3,29.2,35.5,0.78,27.7
+ICAR-0172,Haryana,Chickpea (Gram),Rabi,442.7,63.6,1.5,1.36,2.0
+ICAR-0173,Madhya Pradesh,Maize,Rabi,145.5,88.4,8.0,2.01,16.0
+ICAR-0174,Uttar Pradesh,Bajra (Pearl Millet),Kharif,375.9,69.8,20.0,1.58,31.6
+ICAR-0175,Gujarat,Wheat,Rabi,174.6,81.0,7.5,2.67,20.1
+ICAR-0176,Andhra Pradesh,Maize,Rabi,1107.1,121.6,59.2,2.72,161.2
+ICAR-0177,Haryana,Groundnut,Kharif,738.2,104.3,50.0,2.07,103.4
+ICAR-0178,Karnataka,Rice (Paddy),Kharif,2007.5,157.0,45.4,2.83,128.3
+ICAR-0179,West Bengal,Maize,Rabi,755.6,97.3,5.2,2.86,15.0
+ICAR-0180,Rajasthan,Bajra (Pearl Millet),Kharif,367.4,50.2,59.8,1.14,68.2
+ICAR-0181,Uttar Pradesh,Cotton,Kharif,1161.4,121.3,7.5,1.52,11.4
+ICAR-0182,Karnataka,Wheat,Rabi,151.9,155.2,37.8,3.72,140.7
+ICAR-0183,Andhra Pradesh,Sugarcane,Whole Year,1957.1,412.5,82.4,73.43,6051.8
+ICAR-0184,Maharashtra,Chickpea (Gram),Rabi,188.3,47.4,1.8,1.04,1.8
+ICAR-0185,Gujarat,Rice (Paddy),Rabi,1308.2,110.6,10.6,2.8,29.7
+ICAR-0186,Uttar Pradesh,Cotton,Kharif,783.5,146.4,12.1,1.89,22.9
+ICAR-0187,Gujarat,Rice (Paddy),Rabi,1747.3,120.8,7.3,3.03,22.0
+ICAR-0188,Haryana,Soybean,Kharif,835.7,79.2,29.6,1.68,49.7
+ICAR-0189,Madhya Pradesh,Wheat,Rabi,336.1,158.5,3.5,3.36,11.8
+ICAR-0190,Rajasthan,Chickpea (Gram),Rabi,304.6,35.4,1.5,0.78,1.2
+ICAR-0191,West Bengal,Groundnut,Kharif,826.3,58.3,16.0,1.58,25.3
+ICAR-0192,Gujarat,Wheat,Rabi,521.9,155.1,3.5,4.0,14.1
+ICAR-0193,Maharashtra,Groundnut,Kharif,662.6,78.8,39.8,1.55,61.7
+ICAR-0194,Punjab,Cotton,Kharif,736.9,65.2,16.9,1.39,23.5
+ICAR-0195,Andhra Pradesh,Chickpea (Gram),Rabi,498.5,21.8,14.2,0.87,12.4
+ICAR-0196,Uttar Pradesh,Chickpea (Gram),Rabi,328.8,58.8,49.2,1.11,54.6
+ICAR-0197,Andhra Pradesh,Soybean,Kharif,842.8,58.0,2.8,1.44,4.0
+ICAR-0198,Andhra Pradesh,Cotton,Kharif,445.9,149.1,70.9,1.71,121.2
+ICAR-0199,Punjab,Wheat,Rabi,611.1,133.6,2.2,3.94,8.5
+ICAR-0200,Tamil Nadu,Wheat,Rabi,619.3,165.9,1.5,3.94,5.9
+ICAR-0201,Bihar,Rice (Paddy),Rabi,1862.2,178.8,1.5,3.3,4.9
+ICAR-0202,Karnataka,Groundnut,Kharif,697.7,82.5,10.4,1.73,17.9
+ICAR-0203,Gujarat,Mustard,Rabi,429.8,119.5,22.8,1.43,32.5
+ICAR-0204,West Bengal,Bajra (Pearl Millet),Kharif,579.3,90.3,22.5,1.36,30.6
+ICAR-0205,Bihar,Soybean,Kharif,754.7,78.9,93.1,1.29,120.1
+ICAR-0206,Tamil Nadu,Maize,Kharif,554.0,138.2,17.0,2.81,47.8
+ICAR-0207,Bihar,Bajra (Pearl Millet),Kharif,197.8,51.5,13.5,1.21,16.4
+ICAR-0208,Punjab,Maize,Kharif,580.1,160.7,24.8,3.63,89.9
+ICAR-0209,Bihar,Cotton,Kharif,1565.0,121.5,18.0,1.01,18.2
+ICAR-0210,Uttar Pradesh,Cotton,Kharif,770.1,56.1,22.4,1.09,24.5
+ICAR-0211,Andhra Pradesh,Sugarcane,Whole Year,2730.2,395.9,33.0,63.36,2092.4
+ICAR-0212,Tamil Nadu,Bajra (Pearl Millet),Kharif,288.8,65.8,16.9,1.48,25.1
+ICAR-0213,Andhra Pradesh,Groundnut,Kharif,1013.1,82.3,2.5,1.47,3.7
+ICAR-0214,Bihar,Wheat,Rabi,619.0,197.0,12.6,3.78,47.7
+ICAR-0215,Tamil Nadu,Bajra (Pearl Millet),Kharif,101.3,64.6,44.1,1.18,52.1
+ICAR-0216,Gujarat,Rice (Paddy),Kharif,1062.7,125.4,1.5,3.05,4.6
+ICAR-0217,Maharashtra,Maize,Rabi,969.1,116.8,41.0,2.73,111.8
+ICAR-0218,Bihar,Cotton,Kharif,812.7,107.6,18.9,1.39,26.3
+ICAR-0219,Madhya Pradesh,Bajra (Pearl Millet),Kharif,477.4,58.5,9.5,1.26,12.0
+ICAR-0220,Rajasthan,Cotton,Kharif,752.4,140.2,15.2,1.45,22.0
+ICAR-0221,Gujarat,Wheat,Rabi,517.4,48.6,3.4,2.08,7.0
+ICAR-0222,Karnataka,Wheat,Rabi,469.0,153.4,4.2,3.38,14.3
+ICAR-0223,Andhra Pradesh,Maize,Kharif,810.2,87.0,45.5,2.58,117.4
+ICAR-0224,Uttar Pradesh,Wheat,Rabi,507.5,167.6,21.1,3.94,83.3
+ICAR-0225,Bihar,Groundnut,Kharif,754.1,67.8,43.8,1.55,67.9
+ICAR-0226,Bihar,Wheat,Rabi,735.9,127.5,51.2,2.77,141.7
+ICAR-0227,West Bengal,Maize,Kharif,536.2,108.2,26.3,2.97,78.1
+ICAR-0228,West Bengal,Mustard,Rabi,333.0,104.0,3.2,1.46,4.7
+ICAR-0229,Andhra Pradesh,Mustard,Rabi,193.4,38.0,29.7,0.87,25.9
+ICAR-0230,Punjab,Rice (Paddy),Kharif,307.9,209.0,24.2,3.88,93.7
+ICAR-0231,West Bengal,Sugarcane,Whole Year,2192.1,284.9,47.0,54.48,2558.4
+ICAR-0232,Madhya Pradesh,Mustard,Rabi,370.9,88.4,77.8,1.37,106.6
+ICAR-0233,Maharashtra,Mustard,Rabi,462.3,71.4,1.8,1.21,2.2
+ICAR-0234,Haryana,Cotton,Kharif,849.8,103.8,2.7,1.78,4.8
+ICAR-0235,Madhya Pradesh,Maize,Rabi,804.3,127.4,19.0,2.64,50.1
+ICAR-0236,Uttar Pradesh,Wheat,Rabi,475.7,106.5,3.2,3.03,9.8
+ICAR-0237,Gujarat,Mustard,Rabi,231.3,87.4,18.6,1.34,25.0
+ICAR-0238,Rajasthan,Bajra (Pearl Millet),Kharif,422.5,57.4,2.3,1.23,2.8
+ICAR-0239,Andhra Pradesh,Rice (Paddy),Rabi,1304.8,122.0,75.6,3.34,252.5
+ICAR-0240,Andhra Pradesh,Soybean,Kharif,964.2,82.2,4.8,1.72,8.3
+ICAR-0241,West Bengal,Bajra (Pearl Millet),Kharif,343.4,73.5,6.8,1.47,9.9
+ICAR-0242,Haryana,Cotton,Kharif,984.9,170.0,2.5,1.87,4.7
+ICAR-0243,Madhya Pradesh,Bajra (Pearl Millet),Kharif,675.6,37.7,4.6,0.95,4.4
+ICAR-0244,Tamil Nadu,Maize,Kharif,778.5,100.3,6.5,2.6,17.0
+ICAR-0245,Tamil Nadu,Bajra (Pearl Millet),Kharif,477.7,35.7,1.5,1.08,1.6
+ICAR-0246,Tamil Nadu,Maize,Rabi,515.6,68.3,31.6,1.95,61.6
+ICAR-0247,Punjab,Mustard,Rabi,477.7,63.3,23.1,1.42,32.8
+ICAR-0248,Madhya Pradesh,Groundnut,Kharif,560.7,87.0,12.8,1.92,24.6
+ICAR-0249,Punjab,Chickpea (Gram),Rabi,302.0,42.3,18.3,1.23,22.5
+ICAR-0250,Andhra Pradesh,Groundnut,Kharif,282.4,74.0,9.8,1.95,19.1
+ICAR-0251,Haryana,Chickpea (Gram),Rabi,472.4,71.3,32.8,1.27,41.6
+ICAR-0252,Bihar,Bajra (Pearl Millet),Kharif,372.6,42.2,19.2,1.13,21.7
+ICAR-0253,West Bengal,Mustard,Rabi,259.9,102.8,27.3,1.44,39.4
+ICAR-0254,Karnataka,Chickpea (Gram),Rabi,192.8,61.4,18.4,1.09,20.1
+ICAR-0255,Andhra Pradesh,Chickpea (Gram),Rabi,405.5,40.8,3.4,1.1,3.8
+ICAR-0256,Uttar Pradesh,Cotton,Kharif,902.9,74.7,11.2,1.25,14.0
+ICAR-0257,Maharashtra,Wheat,Rabi,463.7,157.6,9.1,3.36,30.6
+ICAR-0258,Madhya Pradesh,Wheat,Rabi,110.9,162.6,17.2,3.26,56.0
+ICAR-0259,Andhra Pradesh,Maize,Rabi,699.5,116.4,12.0,3.05,36.5
+ICAR-0260,Madhya Pradesh,Soybean,Kharif,1028.4,60.9,78.9,1.26,99.4
+ICAR-0261,Uttar Pradesh,Bajra (Pearl Millet),Kharif,350.1,63.6,49.5,1.45,71.8
+ICAR-0262,Andhra Pradesh,Cotton,Kharif,964.7,26.7,4.0,0.68,2.7
+ICAR-0263,Maharashtra,Wheat,Rabi,530.0,132.1,14.2,3.38,47.9
+ICAR-0264,Uttar Pradesh,Chickpea (Gram),Rabi,117.3,22.6,12.2,0.77,9.4
+ICAR-0265,Maharashtra,Sugarcane,Whole Year,1445.6,229.5,16.6,56.48,935.9
+ICAR-0266,West Bengal,Mustard,Rabi,518.4,62.3,3.2,1.14,3.7
+ICAR-0267,Haryana,Mustard,Rabi,302.4,78.8,17.8,1.4,24.9
+ICAR-0268,Madhya Pradesh,Cotton,Kharif,989.5,25.7,3.5,0.69,2.4
+ICAR-0269,Madhya Pradesh,Sugarcane,Whole Year,1062.8,128.6,43.9,41.53,1824.8
+ICAR-0270,Tamil Nadu,Wheat,Rabi,570.0,120.9,39.1,3.24,126.5
+ICAR-0271,Maharashtra,Bajra (Pearl Millet),Kharif,247.9,70.4,24.1,1.49,35.9
+ICAR-0272,Maharashtra,Maize,Rabi,562.5,70.0,26.0,2.01,52.2
+ICAR-0273,Maharashtra,Cotton,Kharif,569.7,94.9,3.4,1.4,4.8
+ICAR-0274,Uttar Pradesh,Groundnut,Kharif,740.2,73.6,49.1,1.83,89.8
+ICAR-0275,Rajasthan,Maize,Rabi,520.8,157.4,29.1,2.4,69.9
+ICAR-0276,Rajasthan,Wheat,Rabi,385.9,214.1,26.9,3.33,89.7
+ICAR-0277,Gujarat,Chickpea (Gram),Rabi,553.1,66.1,1.7,1.04,1.8
+ICAR-0278,Bihar,Rice (Paddy),Kharif,1277.4,130.4,2.2,2.86,6.3
+ICAR-0279,Gujarat,Rice (Paddy),Kharif,1196.2,144.0,1.5,2.79,4.2
+ICAR-0280,Madhya Pradesh,Cotton,Kharif,798.8,132.4,5.1,1.71,8.8
+ICAR-0281,Gujarat,Bajra (Pearl Millet),Kharif,417.6,47.3,36.1,1.32,47.7
+ICAR-0282,West Bengal,Soybean,Kharif,624.9,43.7,3.2,1.18,3.8
+ICAR-0283,Madhya Pradesh,Soybean,Kharif,985.6,115.5,1.5,1.74,2.6
+ICAR-0284,Bihar,Wheat,Rabi,733.4,115.8,65.8,2.42,159.3
+ICAR-0285,Tamil Nadu,Soybean,Kharif,539.2,28.7,14.5,0.99,14.3
+ICAR-0286,Madhya Pradesh,Maize,Rabi,715.2,127.6,25.9,2.77,71.9
+ICAR-0287,Haryana,Bajra (Pearl Millet),Kharif,420.4,64.8,46.9,1.58,74.0
+ICAR-0288,Maharashtra,Groundnut,Kharif,681.3,72.3,5.0,1.79,8.9
+ICAR-0289,Gujarat,Chickpea (Gram),Rabi,269.8,57.3,19.4,1.11,21.5
+ICAR-0290,Maharashtra,Cotton,Kharif,832.4,92.6,17.6,1.43,25.2
+ICAR-0291,Karnataka,Chickpea (Gram),Rabi,686.0,59.5,17.8,0.91,16.2
+ICAR-0292,Tamil Nadu,Soybean,Kharif,326.2,56.9,15.5,1.36,21.0
+ICAR-0293,Karnataka,Rice (Paddy),Rabi,1158.6,104.3,40.2,2.72,109.5
+ICAR-0294,Tamil Nadu,Wheat,Rabi,229.4,176.7,20.2,3.83,77.4
+ICAR-0295,Andhra Pradesh,Bajra (Pearl Millet),Kharif,275.6,71.7,79.3,1.42,112.6
+ICAR-0296,Haryana,Mustard,Rabi,214.5,80.2,3.3,1.28,4.3
+ICAR-0297,Madhya Pradesh,Cotton,Kharif,572.2,132.2,3.7,1.61,6.0
+ICAR-0298,Madhya Pradesh,Rice (Paddy),Kharif,1069.8,141.2,32.1,3.32,106.7
+ICAR-0299,Maharashtra,Bajra (Pearl Millet),Kharif,627.6,94.0,23.1,1.35,31.2
+ICAR-0300,Bihar,Sugarcane,Whole Year,2173.3,211.3,1.5,48.67,73.4
+ICAR-0301,Bihar,Bajra (Pearl Millet),Kharif,506.1,72.3,18.2,1.2,21.8
+ICAR-0302,Tamil Nadu,Rice (Paddy),Kharif,1165.3,113.2,1.6,2.83,4.6
+ICAR-0303,Bihar,Soybean,Kharif,906.5,82.1,13.7,1.51,20.6
+ICAR-0304,Gujarat,Chickpea (Gram),Rabi,457.4,49.1,97.4,0.96,93.5
+ICAR-0305,Haryana,Rice (Paddy),Rabi,1019.1,172.4,18.2,4.0,73.0
+ICAR-0306,Rajasthan,Sugarcane,Whole Year,1707.0,366.8,46.1,54.76,2525.4
+ICAR-0307,Maharashtra,Cotton,Kharif,699.6,155.9,16.5,1.65,27.2
+ICAR-0308,Punjab,Groundnut,Kharif,1004.6,82.6,4.3,1.86,8.0
+ICAR-0309,Bihar,Soybean,Kharif,1077.9,95.8,78.4,1.33,104.3
+ICAR-0310,Haryana,Mustard,Rabi,240.7,69.9,7.9,1.49,11.8
+ICAR-0311,Andhra Pradesh,Bajra (Pearl Millet),Kharif,316.1,72.9,4.3,1.67,7.1
+ICAR-0312,Maharashtra,Cotton,Kharif,1283.7,145.3,2.3,1.29,2.9
+ICAR-0313,Uttar Pradesh,Groundnut,Kharif,389.3,67.7,53.5,1.81,96.8
+ICAR-0314,Karnataka,Soybean,Kharif,737.9,78.6,3.9,1.48,5.8
+ICAR-0315,Tamil Nadu,Bajra (Pearl Millet),Kharif,305.9,40.8,9.2,1.18,10.9
+ICAR-0316,West Bengal,Mustard,Rabi,549.6,85.6,98.5,1.34,131.9
+ICAR-0317,Uttar Pradesh,Bajra (Pearl Millet),Kharif,571.3,63.8,19.9,1.19,23.7
+ICAR-0318,Uttar Pradesh,Rice (Paddy),Rabi,1491.3,158.3,15.5,3.54,54.9
+ICAR-0319,Haryana,Mustard,Rabi,262.9,76.7,18.0,1.5,26.9
+ICAR-0320,Haryana,Rice (Paddy),Rabi,1851.5,175.4,19.7,3.57,70.3
+ICAR-0321,Madhya Pradesh,Cotton,Kharif,370.4,113.1,52.6,1.45,76.2
+ICAR-0322,Rajasthan,Bajra (Pearl Millet),Kharif,172.1,92.9,2.5,1.48,3.7
+ICAR-0323,Haryana,Groundnut,Kharif,454.8,35.4,40.0,1.31,52.4
+ICAR-0324,Gujarat,Wheat,Rabi,114.5,125.0,5.4,2.93,15.9
+ICAR-0325,Bihar,Bajra (Pearl Millet),Kharif,345.7,46.9,35.4,1.06,37.5
+ICAR-0326,West Bengal,Groundnut,Kharif,376.1,15.0,20.4,0.76,15.5
+ICAR-0327,Uttar Pradesh,Mustard,Rabi,158.2,104.2,56.9,1.42,80.8
+ICAR-0328,Bihar,Rice (Paddy),Kharif,688.6,99.9,14.5,2.55,37.0
+ICAR-0329,Andhra Pradesh,Chickpea (Gram),Rabi,265.7,60.4,111.5,1.14,127.1
+ICAR-0330,Uttar Pradesh,Cotton,Kharif,739.2,81.6,29.0,1.43,41.5
+ICAR-0331,Haryana,Rice (Paddy),Rabi,1503.6,153.7,2.1,3.57,7.4
+ICAR-0332,West Bengal,Cotton,Kharif,906.6,119.1,9.4,1.68,15.8
+ICAR-0333,Karnataka,Wheat,Rabi,471.1,134.4,18.6,3.27,60.9
+ICAR-0334,Rajasthan,Rice (Paddy),Kharif,1117.9,176.0,33.6,2.89,97.2
+ICAR-0335,Uttar Pradesh,Bajra (Pearl Millet),Kharif,228.1,96.3,21.5,1.69,36.4
+ICAR-0336,Gujarat,Sugarcane,Whole Year,2189.8,253.3,1.5,55.33,83.0
+ICAR-0337,Tamil Nadu,Chickpea (Gram),Rabi,326.5,52.1,45.4,1.2,54.4
+ICAR-0338,Madhya Pradesh,Bajra (Pearl Millet),Kharif,201.0,25.1,6.0,0.84,5.0
+ICAR-0339,Haryana,Soybean,Kharif,1156.0,42.3,69.6,1.29,89.8
+ICAR-0340,Haryana,Wheat,Rabi,527.0,163.5,1.5,4.37,6.6
+ICAR-0341,Gujarat,Wheat,Rabi,181.5,41.2,50.0,1.22,61.0
+ICAR-0342,Gujarat,Cotton,Kharif,972.4,108.4,1.5,1.49,2.2
+ICAR-0343,Andhra Pradesh,Mustard,Rabi,397.6,59.3,90.1,1.25,112.6
+ICAR-0344,Bihar,Cotton,Kharif,982.2,111.3,20.5,1.39,28.5
+ICAR-0345,Bihar,Mustard,Rabi,619.4,87.0,14.9,0.98,14.6
+ICAR-0346,Madhya Pradesh,Groundnut,Kharif,558.8,31.8,43.5,1.16,50.5
+ICAR-0347,Maharashtra,Sugarcane,Whole Year,2269.6,205.6,22.8,48.39,1104.9
+ICAR-0348,Andhra Pradesh,Soybean,Kharif,1086.3,96.0,8.4,1.67,14.0
+ICAR-0349,Bihar,Sugarcane,Whole Year,2337.0,222.5,21.3,44.24,942.1
+ICAR-0350,Maharashtra,Sugarcane,Whole Year,2295.2,424.6,18.6,63.01,1173.5
+ICAR-0351,West Bengal,Cotton,Kharif,614.0,118.0,60.4,1.52,91.8
+ICAR-0352,Haryana,Bajra (Pearl Millet),Kharif,365.4,53.7,74.0,1.46,108.0
+ICAR-0353,Andhra Pradesh,Cotton,Kharif,902.2,149.6,28.2,1.71,48.2
+ICAR-0354,Bihar,Sugarcane,Whole Year,1483.4,315.6,22.9,58.45,1341.3
+ICAR-0355,Tamil Nadu,Soybean,Kharif,1531.5,72.2,1.8,1.19,2.2
+ICAR-0356,Bihar,Chickpea (Gram),Rabi,204.4,42.0,5.5,0.8,4.4
+ICAR-0357,Haryana,Cotton,Kharif,771.6,61.9,1.5,1.45,2.2
+ICAR-0358,Punjab,Bajra (Pearl Millet),Kharif,303.2,66.8,12.6,1.69,21.4
+ICAR-0359,Maharashtra,Rice (Paddy),Kharif,1307.8,195.9,53.0,3.23,171.1
+ICAR-0360,Gujarat,Sugarcane,Whole Year,1843.7,343.7,4.5,64.41,290.8
+ICAR-0361,Karnataka,Sugarcane,Whole Year,2323.8,264.8,31.3,48.75,1525.7
+ICAR-0362,Rajasthan,Mustard,Rabi,459.6,93.2,1.5,1.2,1.8
+ICAR-0363,Madhya Pradesh,Wheat,Rabi,578.9,83.0,40.3,2.56,103.1
+ICAR-0364,Bihar,Groundnut,Kharif,678.0,62.4,2.1,1.48,3.1
+ICAR-0365,West Bengal,Mustard,Rabi,568.3,51.0,26.0,0.98,25.5
+ICAR-0366,Uttar Pradesh,Sugarcane,Whole Year,2375.6,297.4,51.7,63.65,3292.4
+ICAR-0367,Madhya Pradesh,Chickpea (Gram),Rabi,387.8,34.9,3.8,0.92,3.5
+ICAR-0368,Haryana,Rice (Paddy),Kharif,1158.9,117.0,3.3,3.45,11.3
+ICAR-0369,Punjab,Soybean,Kharif,1104.5,97.0,46.7,1.76,82.2
+ICAR-0370,Haryana,Mustard,Rabi,567.5,100.2,22.3,1.39,31.0
+ICAR-0371,Bihar,Wheat,Rabi,303.7,45.9,21.6,1.71,37.0
+ICAR-0372,Gujarat,Bajra (Pearl Millet),Kharif,410.9,55.1,12.5,1.33,16.6
+ICAR-0373,Karnataka,Mustard,Rabi,194.8,76.0,25.9,1.22,31.7
+ICAR-0374,Rajasthan,Wheat,Rabi,517.8,74.9,1.9,2.57,4.8
+ICAR-0375,Gujarat,Rice (Paddy),Kharif,1672.1,207.9,11.3,3.81,43.2
+ICAR-0376,Uttar Pradesh,Maize,Rabi,570.0,120.2,83.1,2.85,236.9
+ICAR-0377,Madhya Pradesh,Bajra (Pearl Millet),Kharif,233.9,53.5,1.5,1.28,1.9
+ICAR-0378,Rajasthan,Maize,Rabi,1060.5,145.1,23.1,2.2,50.8
+ICAR-0379,Bihar,Soybean,Kharif,818.1,79.4,12.2,1.44,17.5
+ICAR-0380,Maharashtra,Soybean,Kharif,243.4,106.4,35.9,1.62,58.1
+ICAR-0381,Gujarat,Mustard,Rabi,129.4,62.8,7.5,1.04,7.8
+ICAR-0382,Bihar,Mustard,Rabi,244.0,47.1,21.9,0.97,21.2
+ICAR-0383,Haryana,Wheat,Rabi,100.0,118.8,127.3,3.38,430.2
+ICAR-0384,West Bengal,Groundnut,Kharif,815.2,41.0,12.6,1.37,17.2
+ICAR-0385,Bihar,Maize,Kharif,804.7,129.8,3.5,2.94,10.4
+ICAR-0386,Andhra Pradesh,Chickpea (Gram),Rabi,587.7,49.2,3.3,0.99,3.3
+ICAR-0387,Punjab,Groundnut,Kharif,754.9,57.8,72.1,1.76,126.9
+ICAR-0388,Bihar,Cotton,Kharif,442.2,118.4,11.8,1.55,18.2
+ICAR-0389,Andhra Pradesh,Rice (Paddy),Rabi,989.4,197.7,17.9,4.28,76.6
+ICAR-0390,Haryana,Maize,Rabi,615.8,40.8,23.0,1.48,34.1
+ICAR-0391,Madhya Pradesh,Mustard,Rabi,492.8,70.4,55.9,1.21,67.6
+ICAR-0392,Tamil Nadu,Wheat,Rabi,100.0,206.3,32.1,3.56,114.2
+ICAR-0393,Andhra Pradesh,Bajra (Pearl Millet),Kharif,325.5,46.6,11.1,1.27,14.1
+ICAR-0394,Karnataka,Soybean,Kharif,1106.6,67.4,25.1,1.3,32.6
+ICAR-0395,Maharashtra,Groundnut,Kharif,659.2,67.8,30.1,1.55,46.7
+ICAR-0396,Uttar Pradesh,Cotton,Kharif,521.0,87.7,10.7,1.46,15.7
+ICAR-0397,Haryana,Wheat,Rabi,511.5,160.9,3.0,4.19,12.6
+ICAR-0398,Andhra Pradesh,Wheat,Rabi,549.0,123.7,8.7,3.44,30.1
+ICAR-0399,Bihar,Wheat,Rabi,587.5,105.4,66.2,3.01,199.3
+ICAR-0400,Tamil Nadu,Maize,Kharif,633.9,142.9,96.6,2.89,279.1
+ICAR-0401,Maharashtra,Sugarcane,Whole Year,2657.2,170.1,3.3,43.83,143.7
+ICAR-0402,Rajasthan,Bajra (Pearl Millet),Kharif,513.5,63.9,25.3,1.26,31.9
+ICAR-0403,Uttar Pradesh,Wheat,Rabi,582.8,151.8,40.7,3.91,159.3
+ICAR-0404,Gujarat,Mustard,Rabi,688.1,59.4,4.3,1.02,4.4
+ICAR-0405,Uttar Pradesh,Wheat,Rabi,537.6,161.7,7.9,3.67,29.1
+ICAR-0406,Punjab,Bajra (Pearl Millet),Kharif,351.6,72.7,22.5,1.8,40.5
+ICAR-0407,Punjab,Mustard,Rabi,231.5,129.8,10.4,1.8,18.7
+ICAR-0408,Uttar Pradesh,Cotton,Kharif,473.6,118.7,14.2,1.67,23.7
+ICAR-0409,Punjab,Chickpea (Gram),Rabi,431.9,43.6,2.3,1.21,2.8
+ICAR-0410,Punjab,Soybean,Kharif,1439.6,81.0,27.4,1.43,39.2
+ICAR-0411,Punjab,Groundnut,Kharif,391.0,85.6,2.8,2.18,6.1
+ICAR-0412,Rajasthan,Rice (Paddy),Kharif,1776.7,38.1,50.2,1.18,59.3
+ICAR-0413,Haryana,Wheat,Rabi,650.1,154.6,1.5,3.99,6.0
+ICAR-0414,Maharashtra,Cotton,Kharif,835.9,96.9,26.8,1.45,38.8
+ICAR-0415,Gujarat,Chickpea (Gram),Rabi,343.7,49.9,28.3,0.99,28.0
+ICAR-0416,Karnataka,Groundnut,Kharif,797.5,89.9,9.5,1.75,16.6
+ICAR-0417,Bihar,Maize,Rabi,465.7,143.0,55.2,2.61,144.2
+ICAR-0418,West Bengal,Rice (Paddy),Rabi,632.0,149.7,2.6,3.58,9.4
+ICAR-0419,Rajasthan,Maize,Rabi,625.6,84.2,17.0,2.22,37.7
+ICAR-0420,Andhra Pradesh,Cotton,Kharif,117.4,109.4,82.8,1.32,109.2
+ICAR-0421,Bihar,Bajra (Pearl Millet),Kharif,223.0,80.1,37.2,1.38,51.3
+ICAR-0422,Rajasthan,Chickpea (Gram),Rabi,585.8,41.8,7.7,0.78,6.0
+ICAR-0423,Maharashtra,Soybean,Kharif,880.3,102.5,10.7,1.65,17.6
+ICAR-0424,Tamil Nadu,Cotton,Kharif,395.2,115.7,37.9,1.63,61.8
+ICAR-0425,Karnataka,Chickpea (Gram),Rabi,421.5,47.0,23.1,0.96,22.2
+ICAR-0426,Bihar,Bajra (Pearl Millet),Kharif,374.3,62.7,6.8,1.29,8.8
+ICAR-0427,Karnataka,Cotton,Kharif,891.0,111.7,2.0,1.36,2.7
+ICAR-0428,Bihar,Mustard,Rabi,274.5,82.6,38.0,1.16,44.1
+ICAR-0429,Haryana,Maize,Rabi,371.0,176.8,28.0,3.46,97.0
+ICAR-0430,Madhya Pradesh,Chickpea (Gram),Rabi,212.7,41.4,55.2,0.85,46.9
+ICAR-0431,West Bengal,Wheat,Rabi,520.8,137.7,17.2,3.27,56.2
+ICAR-0432,Uttar Pradesh,Bajra (Pearl Millet),Kharif,284.3,50.5,8.0,1.37,11.0
+ICAR-0433,Andhra Pradesh,Wheat,Rabi,244.1,137.5,15.3,3.97,60.9
+ICAR-0434,Karnataka,Rice (Paddy),Kharif,1329.6,122.0,80.9,2.93,236.9
+ICAR-0435,Madhya Pradesh,Sugarcane,Whole Year,168.0,275.9,76.5,40.66,3108.5
+ICAR-0436,Maharashtra,Soybean,Kharif,886.0,52.7,30.0,1.36,40.7
+ICAR-0437,Gujarat,Maize,Rabi,659.8,75.2,31.7,2.42,76.7
+ICAR-0438,Tamil Nadu,Rice (Paddy),Kharif,684.2,152.9,45.1,3.56,160.6
+ICAR-0439,Madhya Pradesh,Maize,Rabi,382.4,141.8,9.7,3.01,29.2
+ICAR-0440,Gujarat,Chickpea (Gram),Rabi,475.0,39.1,16.4,0.97,15.9
+ICAR-0441,Rajasthan,Cotton,Kharif,551.0,58.3,63.0,0.9,56.7
+ICAR-0442,Madhya Pradesh,Cotton,Kharif,1096.8,118.2,75.4,1.45,109.3
+ICAR-0443,Gujarat,Bajra (Pearl Millet),Kharif,538.5,49.3,7.2,1.06,7.7
+ICAR-0444,Madhya Pradesh,Rice (Paddy),Rabi,1640.5,160.5,6.5,3.29,21.4
+ICAR-0445,Punjab,Rice (Paddy),Rabi,1071.9,168.8,75.1,3.66,275.0
+ICAR-0446,Haryana,Maize,Kharif,1152.0,153.3,3.9,2.88,11.2
+ICAR-0447,Tamil Nadu,Mustard,Rabi,522.9,65.9,16.2,1.09,17.6
+ICAR-0448,Karnataka,Soybean,Kharif,846.4,85.7,1.5,1.35,2.0
+ICAR-0449,West Bengal,Cotton,Kharif,927.8,97.9,15.4,1.43,22.0
+ICAR-0450,Madhya Pradesh,Sugarcane,Whole Year,2564.4,34.3,1.5,17.83,26.7
+ICAR-0451,Madhya Pradesh,Mustard,Rabi,329.5,90.0,19.8,1.53,30.3
+ICAR-0452,Bihar,Chickpea (Gram),Rabi,494.1,63.5,5.6,0.98,5.5
+ICAR-0453,Tamil Nadu,Chickpea (Gram),Rabi,376.3,42.0,53.6,1.12,60.0
+ICAR-0454,Madhya Pradesh,Soybean,Kharif,580.1,64.7,9.0,1.5,13.5
+ICAR-0455,Maharashtra,Soybean,Kharif,596.0,50.6,3.3,1.13,3.8
+ICAR-0456,Andhra Pradesh,Maize,Rabi,569.5,182.6,2.0,3.62,7.4
+ICAR-0457,Rajasthan,Bajra (Pearl Millet),Kharif,147.5,62.4,24.8,0.94,23.3
+ICAR-0458,Madhya Pradesh,Soybean,Kharif,762.6,73.6,37.9,1.36,51.6
+ICAR-0459,West Bengal,Sugarcane,Whole Year,2182.2,264.6,43.9,62.71,2755.2
+ICAR-0460,Gujarat,Chickpea (Gram),Rabi,512.4,48.1,32.6,1.06,34.6
+ICAR-0461,West Bengal,Rice (Paddy),Rabi,1015.5,162.7,10.6,3.57,37.8
+ICAR-0462,Bihar,Mustard,Rabi,445.4,32.7,16.5,0.79,13.0
+ICAR-0463,Madhya Pradesh,Cotton,Kharif,672.8,107.6,45.7,1.49,68.0
+ICAR-0464,Madhya Pradesh,Groundnut,Kharif,718.7,82.4,19.8,1.74,34.4
+ICAR-0465,Punjab,Groundnut,Kharif,621.5,52.1,31.7,1.71,54.2
+ICAR-0466,Haryana,Sugarcane,Whole Year,1969.5,196.3,50.1,57.03,2858.2
+ICAR-0467,Madhya Pradesh,Cotton,Kharif,359.1,143.5,42.4,1.51,64.0
+ICAR-0468,Karnataka,Mustard,Rabi,350.3,102.3,59.1,1.35,79.8
+ICAR-0469,Uttar Pradesh,Cotton,Kharif,653.1,114.7,19.9,1.54,30.6
+ICAR-0470,Gujarat,Rice (Paddy),Rabi,768.0,191.1,13.0,3.37,43.7
+ICAR-0471,Andhra Pradesh,Groundnut,Kharif,467.3,83.2,14.2,1.78,25.2
+ICAR-0472,Uttar Pradesh,Mustard,Rabi,501.4,78.6,27.8,1.32,36.7
+ICAR-0473,Tamil Nadu,Mustard,Rabi,536.2,63.9,2.7,1.06,2.8
+ICAR-0474,Rajasthan,Soybean,Kharif,565.2,42.1,88.2,0.98,86.5
+ICAR-0475,Maharashtra,Soybean,Kharif,1114.8,91.7,13.7,1.39,19.1
+ICAR-0476,Gujarat,Sugarcane,Whole Year,753.4,273.0,7.8,52.27,408.6
+ICAR-0477,Bihar,Groundnut,Kharif,665.0,66.4,23.1,1.48,34.2
+ICAR-0478,Andhra Pradesh,Cotton,Kharif,798.7,165.2,26.1,1.93,50.4
+ICAR-0479,Maharashtra,Wheat,Rabi,307.5,186.7,20.7,4.22,87.5
+ICAR-0480,Andhra Pradesh,Soybean,Kharif,683.8,35.4,1.5,1.13,1.7
+ICAR-0481,Madhya Pradesh,Rice (Paddy),Kharif,1156.0,151.6,22.1,3.39,75.1
+ICAR-0482,Bihar,Rice (Paddy),Kharif,1761.7,166.1,19.5,2.89,56.4
+ICAR-0483,Haryana,Rice (Paddy),Rabi,1741.9,126.0,5.2,3.2,16.7
+ICAR-0484,Gujarat,Maize,Kharif,646.5,132.6,42.5,2.98,126.6
+ICAR-0485,Gujarat,Soybean,Kharif,928.5,38.0,27.8,1.0,27.8
+ICAR-0486,Tamil Nadu,Rice (Paddy),Kharif,1534.4,155.1,1.5,3.51,5.3
+ICAR-0487,Punjab,Soybean,Kharif,776.7,84.7,13.8,1.88,26.0
+ICAR-0488,Uttar Pradesh,Mustard,Rabi,184.7,84.2,43.3,1.4,60.6
+ICAR-0489,Gujarat,Groundnut,Kharif,724.6,40.9,34.0,1.32,44.8
+ICAR-0490,Haryana,Bajra (Pearl Millet),Kharif,607.7,35.2,40.2,1.03,41.4
+ICAR-0491,Tamil Nadu,Rice (Paddy),Rabi,1604.5,128.7,27.5,3.07,84.3
+ICAR-0492,Rajasthan,Chickpea (Gram),Rabi,573.3,23.2,26.2,0.45,11.8
+ICAR-0493,Maharashtra,Wheat,Rabi,363.4,163.5,14.7,3.55,52.1
+ICAR-0494,Andhra Pradesh,Groundnut,Kharif,620.9,55.4,26.6,1.74,46.3
+ICAR-0495,Punjab,Chickpea (Gram),Rabi,342.9,41.2,1.8,1.24,2.3
+ICAR-0496,Tamil Nadu,Sugarcane,Whole Year,1145.5,327.9,2.9,70.93,207.5
+ICAR-0497,Maharashtra,Rice (Paddy),Rabi,1204.4,172.7,20.2,3.43,69.1
+ICAR-0498,Rajasthan,Cotton,Kharif,522.5,113.7,6.1,1.38,8.4
+ICAR-0499,Tamil Nadu,Maize,Rabi,350.1,172.2,7.9,3.16,25.0
+ICAR-0500,West Bengal,Chickpea (Gram),Rabi,234.8,47.4,5.4,1.29,6.9
+ICAR-0501,Andhra Pradesh,Maize,Rabi,602.8,148.9,15.5,3.2,49.6
+ICAR-0502,West Bengal,Maize,Kharif,671.1,140.0,6.5,2.92,19.0
+ICAR-0503,Tamil Nadu,Rice (Paddy),Kharif,1299.0,213.3,4.4,3.6,15.8
+ICAR-0504,Bihar,Sugarcane,Whole Year,1007.1,288.9,23.4,49.63,1161.2
+ICAR-0505,Tamil Nadu,Mustard,Rabi,250.1,54.8,10.2,1.23,12.6
+ICAR-0506,Gujarat,Soybean,Kharif,1312.9,36.7,19.5,0.78,15.2
+ICAR-0507,Rajasthan,Groundnut,Kharif,431.6,75.4,17.3,1.58,27.4
+ICAR-0508,Uttar Pradesh,Rice (Paddy),Kharif,1144.5,125.9,3.9,3.05,11.8
+ICAR-0509,Rajasthan,Rice (Paddy),Kharif,1377.6,122.2,28.4,2.64,75.0
+ICAR-0510,Gujarat,Soybean,Kharif,1247.0,51.0,54.2,1.34,72.6
+ICAR-0511,Gujarat,Bajra (Pearl Millet),Kharif,417.3,91.7,45.2,1.56,70.5
+ICAR-0512,Haryana,Sugarcane,Whole Year,2013.2,302.4,17.9,63.4,1132.5
+ICAR-0513,Haryana,Wheat,Rabi,384.6,31.3,1.5,2.07,3.1
+ICAR-0514,Uttar Pradesh,Sugarcane,Whole Year,1123.7,204.6,1.5,52.46,78.7
+ICAR-0515,Andhra Pradesh,Soybean,Kharif,1047.4,79.7,19.7,1.57,31.0
+ICAR-0516,Andhra Pradesh,Cotton,Kharif,843.4,74.4,10.8,1.3,14.0
+ICAR-0517,Karnataka,Mustard,Rabi,275.9,25.4,32.1,0.77,24.7
+ICAR-0518,Gujarat,Wheat,Rabi,602.5,121.9,1.5,3.8,5.7
+ICAR-0519,Bihar,Wheat,Rabi,492.3,189.0,1.7,3.67,6.3
+ICAR-0520,Maharashtra,Mustard,Rabi,528.3,100.3,1.5,1.29,1.9
+ICAR-0521,Haryana,Mustard,Rabi,199.1,104.4,12.4,1.6,19.8
+ICAR-0522,Haryana,Maize,Rabi,515.9,139.1,19.5,3.53,68.8
+ICAR-0523,Rajasthan,Bajra (Pearl Millet),Kharif,598.2,48.2,12.2,0.84,10.3
+ICAR-0524,Gujarat,Wheat,Rabi,505.6,163.2,17.7,3.71,65.6
+ICAR-0525,Punjab,Bajra (Pearl Millet),Kharif,259.3,87.3,43.1,1.91,82.4
+ICAR-0526,Andhra Pradesh,Soybean,Kharif,1027.5,72.1,25.3,1.52,38.4
+ICAR-0527,Punjab,Maize,Rabi,893.8,73.7,43.4,2.54,110.2
+ICAR-0528,Tamil Nadu,Chickpea (Gram),Rabi,554.0,54.0,34.4,1.13,38.9
+ICAR-0529,Punjab,Groundnut,Kharif,695.9,34.5,1.5,1.29,1.9
+ICAR-0530,Karnataka,Groundnut,Kharif,872.7,78.1,139.0,1.51,210.0
+ICAR-0531,Andhra Pradesh,Wheat,Rabi,376.1,155.1,21.5,4.12,88.5
+ICAR-0532,Rajasthan,Sugarcane,Whole Year,2185.9,271.8,3.5,48.73,169.8
+ICAR-0533,Madhya Pradesh,Maize,Kharif,634.6,118.7,2.1,2.62,5.5
+ICAR-0534,Tamil Nadu,Bajra (Pearl Millet),Kharif,528.1,96.2,50.0,1.63,81.4
+ICAR-0535,Rajasthan,Sugarcane,Whole Year,1891.3,282.0,35.3,57.27,2023.9
+ICAR-0536,Gujarat,Soybean,Kharif,703.6,80.5,65.8,1.42,93.5
+ICAR-0537,Uttar Pradesh,Mustard,Rabi,535.8,105.4,15.8,1.28,20.3
+ICAR-0538,Andhra Pradesh,Rice (Paddy),Rabi,100.0,169.1,1.5,3.16,4.7
+ICAR-0539,Gujarat,Wheat,Rabi,597.8,116.2,2.9,3.34,9.7
+ICAR-0540,Tamil Nadu,Soybean,Kharif,1044.1,73.7,1.8,1.55,2.8
+ICAR-0541,Andhra Pradesh,Sugarcane,Whole Year,2272.7,330.3,13.4,60.72,810.8
+ICAR-0542,Uttar Pradesh,Cotton,Kharif,1337.0,104.1,15.2,1.15,17.4
+ICAR-0543,Madhya Pradesh,Chickpea (Gram),Rabi,249.6,86.3,12.8,1.23,15.8
+ICAR-0544,Andhra Pradesh,Wheat,Rabi,268.7,135.9,22.5,3.91,87.8
+ICAR-0545,Karnataka,Chickpea (Gram),Rabi,329.5,47.4,6.6,1.05,6.9
+ICAR-0546,Tamil Nadu,Mustard,Rabi,440.5,84.9,28.8,1.37,39.4
+ICAR-0547,Gujarat,Maize,Kharif,893.1,97.3,147.3,2.54,374.1
+ICAR-0548,Karnataka,Maize,Rabi,697.8,107.3,14.3,2.44,34.9
+ICAR-0549,Bihar,Rice (Paddy),Kharif,1159.9,108.6,1.8,2.53,4.7
+ICAR-0550,Madhya Pradesh,Wheat,Rabi,339.0,110.8,4.6,3.22,14.8
+ICAR-0551,Maharashtra,Cotton,Kharif,733.8,125.8,8.2,1.51,12.3
+ICAR-0552,Karnataka,Groundnut,Kharif,848.3,57.6,11.0,1.37,15.0
+ICAR-0553,Madhya Pradesh,Maize,Rabi,589.7,132.0,10.5,2.9,30.4
+ICAR-0554,Tamil Nadu,Maize,Rabi,478.1,126.6,3.9,3.55,13.8
+ICAR-0555,Haryana,Mustard,Rabi,340.1,56.3,9.1,1.23,11.3
+ICAR-0556,West Bengal,Wheat,Rabi,100.0,174.0,49.5,3.54,175.4
+ICAR-0557,Tamil Nadu,Mustard,Rabi,535.8,83.1,70.5,1.22,86.0
+ICAR-0558,West Bengal,Chickpea (Gram),Rabi,333.2,39.3,49.1,1.08,53.0
+ICAR-0559,Uttar Pradesh,Mustard,Rabi,262.5,113.0,18.0,1.53,27.6
+ICAR-0560,West Bengal,Bajra (Pearl Millet),Kharif,558.8,55.3,87.9,1.35,118.6
+ICAR-0561,Karnataka,Soybean,Kharif,588.7,90.2,3.5,1.53,5.4
+ICAR-0562,Haryana,Sugarcane,Whole Year,1944.7,317.1,8.4,70.03,589.1
+ICAR-0563,Andhra Pradesh,Groundnut,Kharif,176.5,83.2,38.5,1.64,63.1
+ICAR-0564,Gujarat,Maize,Rabi,855.9,124.9,18.5,2.54,46.9
+ICAR-0565,Andhra Pradesh,Cotton,Kharif,890.4,150.6,34.7,1.74,60.4
+ICAR-0566,Punjab,Groundnut,Kharif,363.1,81.2,1.5,2.08,3.1
+ICAR-0567,Karnataka,Groundnut,Kharif,781.0,84.5,23.9,1.65,39.4
+ICAR-0568,Tamil Nadu,Wheat,Rabi,703.9,175.7,4.7,3.47,16.2
+ICAR-0569,Maharashtra,Maize,Rabi,713.6,43.3,23.9,1.56,37.2
+ICAR-0570,Maharashtra,Mustard,Rabi,458.6,42.9,47.9,0.99,47.5
+ICAR-0571,West Bengal,Chickpea (Gram),Rabi,276.6,54.4,10.2,1.26,12.9
+ICAR-0572,West Bengal,Soybean,Kharif,792.8,88.5,5.6,1.77,9.9
+ICAR-0573,Haryana,Mustard,Rabi,389.8,65.0,6.8,1.45,9.8
+ICAR-0574,Tamil Nadu,Groundnut,Kharif,1021.1,52.5,1.5,1.33,2.0
+ICAR-0575,Haryana,Chickpea (Gram),Rabi,347.2,38.7,13.6,1.07,14.5
+ICAR-0576,Uttar Pradesh,Groundnut,Kharif,352.6,62.7,23.6,1.67,39.5
+ICAR-0577,Haryana,Groundnut,Kharif,808.6,56.1,73.5,1.72,126.4
+ICAR-0578,Rajasthan,Rice (Paddy),Kharif,1483.4,116.5,28.3,2.09,59.2
+ICAR-0579,Punjab,Soybean,Kharif,608.0,29.4,39.6,1.01,40.0
+ICAR-0580,Karnataka,Rice (Paddy),Rabi,1058.7,181.9,68.5,3.2,219.3
+ICAR-0581,Karnataka,Groundnut,Kharif,759.0,61.3,1.6,1.4,2.2
+ICAR-0582,West Bengal,Wheat,Rabi,497.0,78.8,4.9,3.04,14.8
+ICAR-0583,Karnataka,Maize,Kharif,454.2,182.9,12.9,3.06,39.4
+ICAR-0584,Tamil Nadu,Rice (Paddy),Rabi,1509.8,118.9,10.5,2.98,31.2
+ICAR-0585,West Bengal,Cotton,Kharif,810.2,166.5,8.5,1.59,13.5
+ICAR-0586,Madhya Pradesh,Soybean,Kharif,829.6,89.1,10.5,1.55,16.3
+ICAR-0587,Tamil Nadu,Cotton,Kharif,510.5,116.2,51.6,1.82,93.9
+ICAR-0588,Karnataka,Wheat,Rabi,484.6,155.9,2.2,3.58,7.7
+ICAR-0589,Gujarat,Maize,Rabi,411.0,206.8,3.2,3.37,10.6
+ICAR-0590,Punjab,Groundnut,Kharif,472.6,66.4,19.0,1.93,36.7
+ICAR-0591,Bihar,Mustard,Rabi,381.6,47.1,8.8,0.95,8.3
+ICAR-0592,Uttar Pradesh,Mustard,Rabi,405.2,41.1,113.7,0.99,112.6
+ICAR-0593,Punjab,Rice (Paddy),Kharif,433.8,183.2,43.4,3.72,161.3
+ICAR-0594,Karnataka,Rice (Paddy),Kharif,1830.0,90.3,45.0,2.36,106.2
+ICAR-0595,Andhra Pradesh,Sugarcane,Whole Year,1450.0,170.7,41.3,49.0,2024.2
+ICAR-0596,Punjab,Maize,Rabi,954.6,126.9,19.0,3.31,62.8
+ICAR-0597,Rajasthan,Maize,Rabi,406.9,108.8,26.7,2.34,62.5
+ICAR-0598,Tamil Nadu,Mustard,Rabi,404.7,109.9,1.5,1.51,2.3
+ICAR-0599,Haryana,Rice (Paddy),Kharif,1562.6,53.9,12.9,2.21,28.5
+ICAR-0600,Punjab,Mustard,Rabi,402.4,64.5,11.0,1.4,15.3
+ICAR-0601,Andhra Pradesh,Bajra (Pearl Millet),Kharif,145.7,65.4,6.1,1.46,8.9
+ICAR-0602,Bihar,Cotton,Kharif,289.4,70.4,52.9,1.04,55.0
+ICAR-0603,Haryana,Chickpea (Gram),Rabi,263.4,30.0,45.3,0.99,44.8
+ICAR-0604,Tamil Nadu,Bajra (Pearl Millet),Kharif,295.0,39.3,2.4,1.13,2.7
+ICAR-0605,Andhra Pradesh,Wheat,Rabi,266.3,47.5,56.0,2.11,118.2
+ICAR-0606,Andhra Pradesh,Bajra (Pearl Millet),Kharif,330.5,59.0,18.0,1.56,28.1
+ICAR-0607,Maharashtra,Bajra (Pearl Millet),Kharif,138.2,73.7,1.5,1.47,2.2
+ICAR-0608,Maharashtra,Chickpea (Gram),Rabi,287.9,41.8,3.6,1.08,3.8
+ICAR-0609,Andhra Pradesh,Mustard,Rabi,359.0,67.4,26.9,1.24,33.4
+ICAR-0610,West Bengal,Soybean,Kharif,957.5,79.3,6.3,1.46,9.2
+ICAR-0611,Madhya Pradesh,Mustard,Rabi,207.7,68.6,4.7,1.35,6.3
+ICAR-0612,Rajasthan,Soybean,Kharif,708.4,47.4,40.9,1.17,47.8
+ICAR-0613,West Bengal,Sugarcane,Whole Year,1086.4,308.9,6.7,66.19,440.7
+ICAR-0614,Bihar,Soybean,Kharif,743.5,57.5,1.5,1.25,1.9
+ICAR-0615,Punjab,Sugarcane,Whole Year,1574.0,273.2,21.9,70.11,1534.1
+ICAR-0616,Bihar,Cotton,Kharif,740.1,111.4,8.0,1.46,11.7
+ICAR-0617,Gujarat,Groundnut,Kharif,567.5,80.2,20.0,1.75,34.9
+ICAR-0618,Gujarat,Rice (Paddy),Kharif,986.3,110.3,42.5,2.76,117.3
+ICAR-0619,Maharashtra,Bajra (Pearl Millet),Kharif,365.3,43.9,10.3,1.23,12.7
+ICAR-0620,Madhya Pradesh,Maize,Kharif,495.5,82.6,18.9,2.09,39.4
+ICAR-0621,Haryana,Bajra (Pearl Millet),Kharif,291.0,42.8,60.4,1.5,90.6
+ICAR-0622,Madhya Pradesh,Wheat,Rabi,503.8,196.2,1.5,3.65,5.5
+ICAR-0623,Madhya Pradesh,Sugarcane,Whole Year,1204.2,331.1,25.6,64.34,1650.1
+ICAR-0624,Madhya Pradesh,Cotton,Kharif,664.5,138.5,39.1,1.65,64.5
+ICAR-0625,Madhya Pradesh,Soybean,Kharif,566.2,72.3,1.5,1.51,2.3
+ICAR-0626,Andhra Pradesh,Bajra (Pearl Millet),Kharif,656.8,59.0,17.6,1.16,20.4
+ICAR-0627,Madhya Pradesh,Sugarcane,Whole Year,1508.1,193.1,35.9,58.09,2082.7
+ICAR-0628,Maharashtra,Wheat,Rabi,468.3,64.3,24.1,1.93,46.5
+ICAR-0629,Karnataka,Rice (Paddy),Rabi,1087.1,158.4,68.1,3.33,226.8
+ICAR-0630,Tamil Nadu,Maize,Rabi,809.2,140.0,7.3,3.51,25.7
+ICAR-0631,Punjab,Rice (Paddy),Kharif,1540.3,109.6,7.3,3.5,25.5
+ICAR-0632,Bihar,Sugarcane,Whole Year,2084.3,355.7,23.1,64.43,1488.7
+ICAR-0633,Uttar Pradesh,Chickpea (Gram),Rabi,159.7,37.9,36.6,1.0,36.6
+ICAR-0634,Karnataka,Rice (Paddy),Kharif,796.2,192.0,7.2,3.64,26.3
+ICAR-0635,Andhra Pradesh,Chickpea (Gram),Rabi,429.2,35.6,3.0,0.9,2.7
+ICAR-0636,West Bengal,Bajra (Pearl Millet),Kharif,605.2,40.7,19.9,1.19,23.6
+ICAR-0637,Karnataka,Chickpea (Gram),Rabi,514.0,28.1,84.0,0.87,73.1
+ICAR-0638,Karnataka,Maize,Rabi,1144.4,163.8,3.4,2.55,8.7
+ICAR-0639,Uttar Pradesh,Bajra (Pearl Millet),Kharif,238.0,55.0,31.4,1.39,43.6
+ICAR-0640,Madhya Pradesh,Groundnut,Kharif,216.8,77.5,28.5,1.66,47.2
+ICAR-0641,Uttar Pradesh,Chickpea (Gram),Rabi,262.8,35.4,27.1,1.06,28.7
+ICAR-0642,Andhra Pradesh,Rice (Paddy),Kharif,2009.0,148.5,64.5,2.87,185.1
+ICAR-0643,Andhra Pradesh,Wheat,Rabi,557.5,117.7,25.9,3.27,84.6
+ICAR-0644,Gujarat,Rice (Paddy),Kharif,785.0,101.5,7.3,3.05,22.4
+ICAR-0645,Andhra Pradesh,Mustard,Rabi,513.2,80.1,12.1,1.27,15.4
+ICAR-0646,Punjab,Cotton,Kharif,396.7,83.7,1.7,1.59,2.7
+ICAR-0647,Madhya Pradesh,Sugarcane,Whole Year,1446.0,365.2,9.1,71.03,648.0
+ICAR-0648,Andhra Pradesh,Groundnut,Kharif,414.8,49.6,25.0,1.5,37.5
+ICAR-0649,Haryana,Maize,Kharif,725.1,84.3,7.4,2.74,20.3
+ICAR-0650,Haryana,Chickpea (Gram),Rabi,556.9,46.6,28.0,1.12,31.4
+ICAR-0651,West Bengal,Chickpea (Gram),Rabi,369.3,18.7,39.8,0.62,24.7
+ICAR-0652,Karnataka,Bajra (Pearl Millet),Kharif,284.0,27.5,8.8,0.91,8.1
+ICAR-0653,Bihar,Soybean,Kharif,908.3,51.0,19.7,1.22,24.0
+ICAR-0654,Gujarat,Chickpea (Gram),Rabi,211.0,21.3,12.7,0.71,9.0
+ICAR-0655,Madhya Pradesh,Chickpea (Gram),Rabi,251.6,50.8,94.3,0.99,93.4
+ICAR-0656,Karnataka,Mustard,Rabi,366.6,63.3,5.3,1.33,7.0
+ICAR-0657,Rajasthan,Chickpea (Gram),Rabi,110.6,55.9,60.6,0.79,47.9
+ICAR-0658,Andhra Pradesh,Cotton,Kharif,1072.9,157.1,15.1,1.66,25.1
+ICAR-0659,Gujarat,Chickpea (Gram),Rabi,570.7,48.4,9.6,0.85,8.1
+ICAR-0660,West Bengal,Chickpea (Gram),Rabi,505.5,34.1,4.5,0.93,4.2
+ICAR-0661,Haryana,Rice (Paddy),Kharif,346.6,111.2,12.8,2.62,33.5
+ICAR-0662,Maharashtra,Chickpea (Gram),Rabi,199.7,37.9,42.0,0.93,39.1
+ICAR-0663,Rajasthan,Mustard,Rabi,399.1,77.9,4.1,1.31,5.4
+ICAR-0664,Uttar Pradesh,Chickpea (Gram),Rabi,307.9,39.6,4.4,1.1,4.9
+ICAR-0665,Bihar,Wheat,Rabi,467.1,113.7,29.9,2.85,85.4
+ICAR-0666,Karnataka,Groundnut,Kharif,563.3,68.6,2.1,1.75,3.6
+ICAR-0667,Gujarat,Soybean,Kharif,380.8,53.1,3.9,1.25,4.8
+ICAR-0668,Madhya Pradesh,Maize,Kharif,406.4,48.3,15.9,1.72,27.3
+ICAR-0669,West Bengal,Cotton,Kharif,586.3,76.7,39.2,1.33,52.1
+ICAR-0670,Rajasthan,Maize,Kharif,843.0,140.1,1.5,2.39,3.6
+ICAR-0671,Andhra Pradesh,Sugarcane,Whole Year,3200.0,324.7,68.7,52.55,3610.0
+ICAR-0672,Maharashtra,Chickpea (Gram),Rabi,652.2,24.1,51.8,0.69,35.7
+ICAR-0673,Bihar,Mustard,Rabi,394.2,41.9,10.8,0.87,9.4
+ICAR-0674,Bihar,Chickpea (Gram),Rabi,389.2,42.0,15.4,0.91,14.0
+ICAR-0675,Andhra Pradesh,Maize,Rabi,535.4,117.2,42.9,3.04,130.5
+ICAR-0676,Punjab,Wheat,Rabi,640.3,139.9,43.7,4.27,186.6
+ICAR-0677,Andhra Pradesh,Bajra (Pearl Millet),Kharif,442.1,84.2,13.4,1.59,21.3
+ICAR-0678,Bihar,Sugarcane,Whole Year,2163.4,372.6,5.1,66.55,340.0
+ICAR-0679,Maharashtra,Mustard,Rabi,265.6,95.6,45.4,1.19,54.0
+ICAR-0680,Tamil Nadu,Sugarcane,Whole Year,2267.2,236.6,12.2,55.66,680.3
+ICAR-0681,Andhra Pradesh,Chickpea (Gram),Rabi,100.0,72.7,12.1,1.11,13.4
+ICAR-0682,Madhya Pradesh,Sugarcane,Whole Year,1919.1,422.4,52.6,71.3,3750.4
+ICAR-0683,Bihar,Maize,Kharif,100.0,168.7,10.0,2.21,22.2
+ICAR-0684,Punjab,Soybean,Kharif,1521.2,83.5,28.5,1.53,43.7
+ICAR-0685,Madhya Pradesh,Soybean,Kharif,897.3,62.3,32.6,1.32,43.1
+ICAR-0686,Gujarat,Soybean,Kharif,700.8,66.7,36.3,1.41,51.2
+ICAR-0687,West Bengal,Groundnut,Kharif,826.7,100.7,1.5,1.84,2.8
+ICAR-0688,Karnataka,Mustard,Rabi,410.1,43.6,2.5,0.91,2.3
+ICAR-0689,Andhra Pradesh,Wheat,Rabi,547.8,170.6,19.8,4.11,81.3
+ICAR-0690,Uttar Pradesh,Soybean,Kharif,835.7,90.8,9.8,1.68,16.5
+ICAR-0691,Rajasthan,Chickpea (Gram),Rabi,369.7,68.7,24.9,1.04,25.9
+ICAR-0692,Karnataka,Chickpea (Gram),Rabi,572.1,52.2,8.0,0.91,7.2
+ICAR-0693,Bihar,Rice (Paddy),Kharif,917.4,141.6,5.0,2.88,14.4
+ICAR-0694,Andhra Pradesh,Mustard,Rabi,604.5,60.0,25.0,1.04,26.0
+ICAR-0695,Haryana,Groundnut,Kharif,916.9,42.2,16.5,1.26,20.8
+ICAR-0696,Gujarat,Wheat,Rabi,284.4,84.0,16.0,2.94,46.9
+ICAR-0697,Tamil Nadu,Wheat,Rabi,421.1,64.9,1.5,2.41,3.6
+ICAR-0698,Maharashtra,Soybean,Kharif,1214.9,83.8,23.5,1.48,34.8
+ICAR-0699,Punjab,Mustard,Rabi,422.2,69.1,1.6,1.39,2.2
+ICAR-0700,Rajasthan,Wheat,Rabi,539.4,162.6,6.9,3.15,21.9
+ICAR-0701,Andhra Pradesh,Wheat,Rabi,309.6,127.6,24.6,3.24,79.6
+ICAR-0702,Haryana,Rice (Paddy),Rabi,1772.6,138.2,3.2,3.13,10.2
+ICAR-0703,Uttar Pradesh,Soybean,Kharif,1153.3,39.0,41.3,0.96,39.7
+ICAR-0704,West Bengal,Rice (Paddy),Rabi,1617.0,116.0,5.5,2.81,15.6
+ICAR-0705,Tamil Nadu,Wheat,Rabi,532.3,58.4,22.2,2.8,62.1
+ICAR-0706,Gujarat,Mustard,Rabi,200.2,95.6,31.4,1.45,45.5
+ICAR-0707,Uttar Pradesh,Groundnut,Kharif,889.0,57.3,1.5,1.67,2.5
+ICAR-0708,West Bengal,Bajra (Pearl Millet),Kharif,537.3,101.5,27.2,1.4,38.1
+ICAR-0709,Uttar Pradesh,Cotton,Kharif,920.5,98.0,1.5,1.55,2.3
+ICAR-0710,Maharashtra,Sugarcane,Whole Year,1656.7,247.0,11.0,50.83,560.3
+ICAR-0711,Bihar,Groundnut,Kharif,623.3,53.7,28.5,1.39,39.6
+ICAR-0712,Tamil Nadu,Maize,Kharif,831.7,64.5,54.4,1.9,103.3
+ICAR-0713,West Bengal,Wheat,Rabi,386.7,124.0,5.0,3.59,18.1
+ICAR-0714,Bihar,Bajra (Pearl Millet),Kharif,444.6,45.3,4.0,1.23,4.9
+ICAR-0715,Gujarat,Chickpea (Gram),Rabi,517.6,25.8,12.7,0.78,9.9
+ICAR-0716,Karnataka,Soybean,Kharif,783.3,98.2,56.8,1.47,83.5
+ICAR-0717,Tamil Nadu,Rice (Paddy),Kharif,1195.9,159.2,10.4,3.47,35.9
+ICAR-0718,Karnataka,Sugarcane,Whole Year,1340.9,211.9,41.4,47.16,1950.7
+ICAR-0719,Rajasthan,Rice (Paddy),Kharif,943.5,177.1,60.7,2.86,173.6
+ICAR-0720,Karnataka,Bajra (Pearl Millet),Kharif,359.8,45.6,1.6,1.1,1.8
+ICAR-0721,Gujarat,Chickpea (Gram),Rabi,378.1,43.2,2.2,0.97,2.1
+ICAR-0722,Gujarat,Groundnut,Kharif,784.0,57.3,38.2,1.58,60.4
+ICAR-0723,Tamil Nadu,Soybean,Kharif,860.1,73.5,2.1,1.67,3.6
+ICAR-0724,Haryana,Chickpea (Gram),Rabi,577.7,55.7,80.1,1.09,87.4
+ICAR-0725,Andhra Pradesh,Mustard,Rabi,212.9,66.1,45.3,1.18,53.4
+ICAR-0726,Madhya Pradesh,Maize,Kharif,730.4,111.7,39.4,2.33,91.8
+ICAR-0727,Haryana,Cotton,Kharif,710.5,132.0,15.8,1.92,30.4
+ICAR-0728,Punjab,Groundnut,Kharif,667.6,71.1,9.1,1.87,17.1
+ICAR-0729,Uttar Pradesh,Chickpea (Gram),Rabi,501.0,39.9,6.6,1.07,7.1
+ICAR-0730,West Bengal,Wheat,Rabi,678.5,109.5,3.7,3.32,12.4
+ICAR-0731,Madhya Pradesh,Rice (Paddy),Kharif,1223.3,149.3,11.0,3.22,35.6
+ICAR-0732,Andhra Pradesh,Mustard,Rabi,100.0,75.3,17.7,1.31,23.2
+ICAR-0733,Andhra Pradesh,Groundnut,Kharif,488.2,18.0,15.0,0.81,12.2
+ICAR-0734,Madhya Pradesh,Maize,Kharif,939.9,97.6,42.9,2.52,108.1
+ICAR-0735,Rajasthan,Rice (Paddy),Kharif,525.8,128.0,34.9,2.1,73.2
+ICAR-0736,Andhra Pradesh,Rice (Paddy),Kharif,1313.5,120.1,1.5,3.3,4.9
+ICAR-0737,Haryana,Soybean,Kharif,612.9,125.6,49.5,1.96,97.1
+ICAR-0738,Andhra Pradesh,Chickpea (Gram),Rabi,254.3,35.4,3.2,1.04,3.3
+ICAR-0739,Punjab,Wheat,Rabi,304.5,159.9,30.6,4.21,128.7
+ICAR-0740,Gujarat,Rice (Paddy),Rabi,902.5,172.4,62.5,3.27,204.3
+ICAR-0741,Uttar Pradesh,Mustard,Rabi,246.9,96.0,24.5,1.46,35.8
+ICAR-0742,Punjab,Maize,Kharif,484.6,123.7,49.4,3.73,184.3
+ICAR-0743,Tamil Nadu,Chickpea (Gram),Rabi,416.9,44.7,16.5,1.09,18.0
+ICAR-0744,Punjab,Cotton,Kharif,323.3,96.3,19.1,1.7,32.5
+ICAR-0745,West Bengal,Bajra (Pearl Millet),Kharif,468.4,50.0,10.3,1.21,12.4
+ICAR-0746,Karnataka,Mustard,Rabi,253.2,80.3,8.6,1.19,10.2
+ICAR-0747,Haryana,Chickpea (Gram),Rabi,415.1,67.8,45.8,1.39,63.7
+ICAR-0748,Rajasthan,Rice (Paddy),Rabi,823.1,101.3,38.2,2.26,86.4
+ICAR-0749,Andhra Pradesh,Sugarcane,Whole Year,1238.5,306.8,1.8,67.59,123.6
+ICAR-0750,Maharashtra,Rice (Paddy),Kharif,1820.2,211.8,3.7,3.23,12.1
+ICAR-0751,Gujarat,Chickpea (Gram),Rabi,381.0,40.6,36.7,0.96,35.2
+ICAR-0752,Uttar Pradesh,Cotton,Kharif,516.1,98.8,22.4,1.69,37.9
+ICAR-0753,Uttar Pradesh,Bajra (Pearl Millet),Kharif,348.7,35.5,44.3,1.03,45.6
+ICAR-0754,Punjab,Chickpea (Gram),Rabi,614.2,41.7,39.4,0.96,37.8
+ICAR-0755,Andhra Pradesh,Rice (Paddy),Kharif,1644.4,184.5,47.9,3.56,170.6
+ICAR-0756,Uttar Pradesh,Mustard,Rabi,270.0,75.7,24.2,1.46,35.3
+ICAR-0757,Rajasthan,Sugarcane,Whole Year,1059.0,321.0,3.9,55.49,219.0
+ICAR-0758,Uttar Pradesh,Mustard,Rabi,455.6,80.6,27.8,1.43,39.8
+ICAR-0759,Andhra Pradesh,Mustard,Rabi,489.6,84.4,29.2,1.23,35.9
+ICAR-0760,Punjab,Bajra (Pearl Millet),Kharif,422.0,61.3,20.8,1.63,33.9
+ICAR-0761,Bihar,Groundnut,Kharif,783.9,113.8,35.6,1.57,55.9
+ICAR-0762,Gujarat,Wheat,Rabi,547.0,40.4,18.2,1.67,30.4
+ICAR-0763,West Bengal,Mustard,Rabi,261.6,71.7,21.4,1.35,28.9
+ICAR-0764,Gujarat,Maize,Rabi,848.4,127.7,5.8,2.64,15.3
+ICAR-0765,Punjab,Rice (Paddy),Rabi,785.7,138.1,9.2,3.8,34.9
+ICAR-0766,Tamil Nadu,Groundnut,Kharif,978.8,46.9,22.9,1.39,31.8
+ICAR-0767,Punjab,Soybean,Kharif,850.2,66.3,21.9,1.61,35.2
+ICAR-0768,Gujarat,Maize,Kharif,706.3,130.9,13.8,2.95,40.7
+ICAR-0769,Rajasthan,Rice (Paddy),Rabi,1059.8,159.4,62.3,2.49,155.1
+ICAR-0770,Bihar,Rice (Paddy),Rabi,1461.3,106.4,47.2,2.17,102.4
+ICAR-0771,Haryana,Groundnut,Kharif,922.4,78.9,40.9,1.81,74.0
+ICAR-0772,Punjab,Soybean,Kharif,1175.4,105.1,15.0,1.76,26.3
+ICAR-0773,Tamil Nadu,Chickpea (Gram),Rabi,229.0,51.6,34.6,1.05,36.3
+ICAR-0774,Tamil Nadu,Rice (Paddy),Rabi,1345.6,136.8,2.8,3.24,9.1
+ICAR-0775,Madhya Pradesh,Bajra (Pearl Millet),Kharif,368.4,69.9,16.1,1.42,22.9
+ICAR-0776,Karnataka,Wheat,Rabi,599.5,135.4,14.0,3.73,52.2
+ICAR-0777,Karnataka,Wheat,Rabi,445.2,126.0,10.1,3.1,31.5
+ICAR-0778,Uttar Pradesh,Cotton,Kharif,667.9,173.0,48.4,1.8,87.1
+ICAR-0779,Haryana,Wheat,Rabi,454.1,158.6,17.2,4.32,74.3
+ICAR-0780,Maharashtra,Sugarcane,Whole Year,2483.2,300.4,21.9,51.98,1139.5
+ICAR-0781,Madhya Pradesh,Maize,Kharif,624.3,95.7,28.5,2.66,75.9
+ICAR-0782,Maharashtra,Mustard,Rabi,283.6,67.4,3.8,1.25,4.7
+ICAR-0783,Andhra Pradesh,Rice (Paddy),Rabi,1209.3,129.9,20.5,3.32,68.1
+ICAR-0784,Haryana,Mustard,Rabi,457.8,76.1,7.5,1.51,11.3
+ICAR-0785,West Bengal,Bajra (Pearl Millet),Kharif,299.1,66.5,9.0,1.7,15.3
+ICAR-0786,Madhya Pradesh,Bajra (Pearl Millet),Kharif,546.6,52.9,24.0,1.12,26.9
+ICAR-0787,Madhya Pradesh,Wheat,Rabi,506.0,137.5,35.9,3.16,113.5
+ICAR-0788,Haryana,Soybean,Kharif,962.9,64.8,18.8,1.82,34.2
+ICAR-0789,Gujarat,Maize,Rabi,811.6,100.3,5.1,2.62,13.5
+ICAR-0790,Andhra Pradesh,Wheat,Rabi,319.9,147.3,10.7,3.57,38.0
+ICAR-0791,Tamil Nadu,Cotton,Kharif,751.2,137.1,9.9,1.53,15.2
+ICAR-0792,Tamil Nadu,Bajra (Pearl Millet),Kharif,337.4,62.5,1.6,1.45,2.4
+ICAR-0793,Haryana,Bajra (Pearl Millet),Kharif,222.6,82.6,4.9,1.73,8.6
+ICAR-0794,Punjab,Wheat,Rabi,171.9,111.0,5.4,3.8,20.6
+ICAR-0795,West Bengal,Cotton,Kharif,793.2,108.6,15.7,1.53,24.0
+ICAR-0796,Karnataka,Mustard,Rabi,511.8,101.5,7.6,1.26,9.6
+ICAR-0797,Punjab,Maize,Rabi,918.2,131.7,10.6,3.11,33.0
+ICAR-0798,Karnataka,Maize,Rabi,993.5,126.7,18.2,2.78,50.5
+ICAR-0799,Karnataka,Soybean,Kharif,1106.5,40.3,15.2,1.19,18.1
+ICAR-0800,Andhra Pradesh,Rice (Paddy),Rabi,1200.5,176.7,23.6,3.58,84.4
+ICAR-0801,Andhra Pradesh,Sugarcane,Whole Year,2387.4,245.1,20.5,54.82,1122.7
+ICAR-0802,Gujarat,Wheat,Rabi,455.5,183.4,2.1,3.56,7.4
+ICAR-0803,Maharashtra,Mustard,Rabi,365.2,91.0,3.4,1.45,4.9
+ICAR-0804,Maharashtra,Maize,Kharif,786.8,129.0,3.5,2.94,10.3
+ICAR-0805,Uttar Pradesh,Bajra (Pearl Millet),Kharif,652.6,54.9,12.9,1.22,15.7
+ICAR-0806,Madhya Pradesh,Maize,Rabi,331.4,64.6,24.0,1.95,46.7
+ICAR-0807,Maharashtra,Mustard,Rabi,305.5,29.8,4.0,0.75,3.0
+ICAR-0808,Madhya Pradesh,Groundnut,Kharif,541.5,57.9,1.5,1.55,2.3
+ICAR-0809,Bihar,Bajra (Pearl Millet),Kharif,390.6,61.2,2.3,1.35,3.1
+ICAR-0810,Andhra Pradesh,Groundnut,Kharif,637.3,60.5,16.7,1.53,25.6
+ICAR-0811,Rajasthan,Bajra (Pearl Millet),Kharif,637.3,40.7,6.1,0.9,5.5
+ICAR-0812,Haryana,Bajra (Pearl Millet),Kharif,406.8,44.5,6.9,1.26,8.7
+ICAR-0813,Rajasthan,Chickpea (Gram),Rabi,541.2,38.3,14.3,0.79,11.3
+ICAR-0814,Haryana,Soybean,Kharif,919.0,94.1,12.5,1.75,21.9
+ICAR-0815,West Bengal,Wheat,Rabi,317.6,159.2,1.5,3.88,5.8
+ICAR-0816,Tamil Nadu,Bajra (Pearl Millet),Kharif,128.6,64.0,28.0,1.44,40.4
+ICAR-0817,Rajasthan,Rice (Paddy),Rabi,864.7,215.5,30.2,3.12,94.2
+ICAR-0818,Uttar Pradesh,Rice (Paddy),Rabi,103.5,152.2,17.7,2.62,46.5
+ICAR-0819,Karnataka,Sugarcane,Whole Year,2530.3,284.0,15.7,57.04,897.0
+ICAR-0820,Gujarat,Cotton,Kharif,184.2,105.0,16.1,1.38,22.3
+ICAR-0821,Haryana,Chickpea (Gram),Rabi,485.2,50.6,143.7,1.13,162.4
+ICAR-0822,Maharashtra,Groundnut,Kharif,581.2,77.2,6.2,1.72,10.7
+ICAR-0823,Andhra Pradesh,Maize,Rabi,236.9,124.0,15.8,2.74,43.4
+ICAR-0824,Uttar Pradesh,Cotton,Kharif,958.4,142.6,15.9,1.62,25.8
+ICAR-0825,Tamil Nadu,Soybean,Kharif,706.0,49.7,70.3,1.2,84.4
+ICAR-0826,Maharashtra,Bajra (Pearl Millet),Kharif,371.9,92.6,102.9,1.44,148.2
+ICAR-0827,Haryana,Maize,Rabi,984.3,143.5,2.1,3.22,6.6
+ICAR-0828,Karnataka,Chickpea (Gram),Rabi,210.3,20.6,20.6,0.63,13.0
+ICAR-0829,Karnataka,Rice (Paddy),Rabi,1811.8,38.1,16.2,1.5,24.3
+ICAR-0830,Punjab,Mustard,Rabi,318.7,99.7,65.4,1.53,100.1
+ICAR-0831,Karnataka,Mustard,Rabi,358.1,60.8,55.3,1.1,60.8
+ICAR-0832,Andhra Pradesh,Soybean,Kharif,342.1,55.8,168.0,1.16,194.9
+ICAR-0833,Haryana,Bajra (Pearl Millet),Kharif,274.4,62.7,4.2,1.68,7.0
+ICAR-0834,Tamil Nadu,Cotton,Kharif,100.0,90.8,9.0,1.21,10.9
+ICAR-0835,Tamil Nadu,Mustard,Rabi,171.0,60.4,10.7,1.25,13.3
+ICAR-0836,Haryana,Sugarcane,Whole Year,2575.3,339.6,23.6,75.67,1782.2
+ICAR-0837,Gujarat,Cotton,Kharif,1256.2,121.5,34.5,1.38,47.6
+ICAR-0838,Andhra Pradesh,Mustard,Rabi,309.9,21.2,4.6,0.72,3.3
+ICAR-0839,Andhra Pradesh,Soybean,Kharif,848.3,94.7,23.1,1.69,39.1
+ICAR-0840,Maharashtra,Wheat,Rabi,210.4,140.3,3.6,3.28,11.7
+ICAR-0841,Karnataka,Sugarcane,Whole Year,1760.7,265.1,18.0,53.94,972.6
+ICAR-0842,Madhya Pradesh,Rice (Paddy),Kharif,1730.5,141.1,7.6,2.7,20.4
+ICAR-0843,Gujarat,Mustard,Rabi,100.0,88.3,85.3,1.31,111.7
+ICAR-0844,Tamil Nadu,Rice (Paddy),Kharif,1342.2,127.0,65.0,2.83,184.0
+ICAR-0845,Uttar Pradesh,Mustard,Rabi,230.1,68.4,7.6,1.44,11.0
+ICAR-0846,Karnataka,Sugarcane,Whole Year,2184.3,343.8,85.0,58.29,4954.5
+ICAR-0847,West Bengal,Wheat,Rabi,757.3,140.6,8.0,3.09,24.7
+ICAR-0848,Punjab,Mustard,Rabi,285.8,72.8,9.7,1.37,13.2
+ICAR-0849,Uttar Pradesh,Bajra (Pearl Millet),Kharif,204.3,21.8,21.5,0.88,18.9
+ICAR-0850,Bihar,Mustard,Rabi,469.2,69.4,16.9,1.11,18.8
+ICAR-0851,Rajasthan,Sugarcane,Whole Year,2120.4,243.9,1.5,48.12,72.2
+ICAR-0852,Haryana,Sugarcane,Whole Year,2559.2,381.4,19.7,65.94,1297.4
+ICAR-0853,Madhya Pradesh,Bajra (Pearl Millet),Kharif,249.0,45.7,6.0,1.35,8.1
+ICAR-0854,Gujarat,Sugarcane,Whole Year,1347.4,261.2,14.7,63.33,930.5
+ICAR-0855,Maharashtra,Groundnut,Kharif,427.4,91.5,7.8,1.69,13.2
+ICAR-0856,Gujarat,Chickpea (Gram),Rabi,361.1,29.8,1.6,0.95,1.5
+ICAR-0857,West Bengal,Wheat,Rabi,446.9,125.8,10.0,3.77,37.7
+ICAR-0858,Gujarat,Mustard,Rabi,443.1,80.9,103.2,1.31,135.2
+ICAR-0859,Maharashtra,Cotton,Kharif,792.2,79.6,19.0,1.08,20.5
+ICAR-0860,Andhra Pradesh,Sugarcane,Whole Year,1217.7,106.7,21.6,36.06,780.6
+ICAR-0861,Tamil Nadu,Maize,Rabi,1101.9,134.0,14.7,2.64,38.8
+ICAR-0862,Uttar Pradesh,Chickpea (Gram),Rabi,320.9,45.2,9.7,1.02,9.9
+ICAR-0863,Uttar Pradesh,Soybean,Kharif,313.3,80.1,15.2,1.44,21.9
+ICAR-0864,Andhra Pradesh,Chickpea (Gram),Rabi,265.0,53.0,3.0,1.23,3.7
+ICAR-0865,Bihar,Rice (Paddy),Kharif,1947.7,139.9,7.7,2.45,18.9
+ICAR-0866,Uttar Pradesh,Chickpea (Gram),Rabi,480.6,19.4,7.7,0.69,5.3
+ICAR-0867,Gujarat,Wheat,Rabi,405.7,122.3,22.0,4.11,90.4
+ICAR-0868,West Bengal,Maize,Kharif,331.5,82.2,33.9,2.34,79.3
+ICAR-0869,Gujarat,Bajra (Pearl Millet),Kharif,208.6,70.1,14.7,1.55,22.8
+ICAR-0870,Maharashtra,Bajra (Pearl Millet),Kharif,325.2,109.8,67.3,1.56,105.0
+ICAR-0871,Andhra Pradesh,Bajra (Pearl Millet),Kharif,260.2,42.6,66.7,1.31,87.4
+ICAR-0872,Andhra Pradesh,Wheat,Rabi,530.5,181.9,3.4,4.34,14.9
+ICAR-0873,Bihar,Mustard,Rabi,443.1,93.2,22.2,1.22,27.1
+ICAR-0874,Bihar,Bajra (Pearl Millet),Kharif,364.4,58.1,15.8,1.2,19.0
+ICAR-0875,Rajasthan,Wheat,Rabi,491.3,54.0,1.7,1.88,3.2
+ICAR-0876,Rajasthan,Maize,Rabi,734.8,140.6,30.1,2.65,79.7
+ICAR-0877,Bihar,Bajra (Pearl Millet),Kharif,278.7,53.3,26.6,1.22,32.5
+ICAR-0878,Madhya Pradesh,Groundnut,Kharif,515.2,64.9,50.9,1.63,82.9
+ICAR-0879,Gujarat,Chickpea (Gram),Rabi,749.2,45.5,3.7,0.79,2.9
+ICAR-0880,Punjab,Maize,Kharif,806.7,112.3,10.5,3.42,35.8
+ICAR-0881,West Bengal,Bajra (Pearl Millet),Kharif,490.3,76.6,50.9,1.43,72.8
+ICAR-0882,Tamil Nadu,Mustard,Rabi,197.3,53.3,18.6,1.13,21.1
+ICAR-0883,Andhra Pradesh,Maize,Kharif,256.3,132.3,131.4,2.85,374.4
+ICAR-0884,Punjab,Groundnut,Kharif,726.5,81.4,5.8,2.16,12.4
+ICAR-0885,Madhya Pradesh,Soybean,Kharif,1102.9,78.8,82.2,1.32,108.6
+ICAR-0886,Andhra Pradesh,Sugarcane,Whole Year,2093.4,142.5,37.5,48.08,1803.1
+ICAR-0887,Rajasthan,Bajra (Pearl Millet),Kharif,522.0,70.0,27.9,1.24,34.6
+ICAR-0888,Madhya Pradesh,Rice (Paddy),Kharif,1248.3,148.4,1.5,3.16,4.7
+ICAR-0889,West Bengal,Sugarcane,Whole Year,1267.6,326.5,6.7,69.39,465.6
+ICAR-0890,Punjab,Groundnut,Kharif,617.5,73.2,17.4,1.92,33.3
+ICAR-0891,Karnataka,Rice (Paddy),Kharif,992.2,120.7,28.8,3.16,90.9
+ICAR-0892,Haryana,Cotton,Kharif,891.6,38.4,103.5,0.85,88.0
+ICAR-0893,Uttar Pradesh,Wheat,Rabi,299.0,77.3,20.8,2.91,60.5
+ICAR-0894,Tamil Nadu,Rice (Paddy),Rabi,1168.0,160.5,6.3,3.27,20.6
+ICAR-0895,Madhya Pradesh,Wheat,Rabi,295.0,152.8,18.4,3.48,64.0
+ICAR-0896,Andhra Pradesh,Cotton,Kharif,735.3,154.8,3.8,1.78,6.8
+ICAR-0897,Andhra Pradesh,Groundnut,Kharif,371.8,75.6,2.6,1.78,4.6
+ICAR-0898,West Bengal,Wheat,Rabi,619.2,206.9,28.7,3.96,113.6
+ICAR-0899,Tamil Nadu,Mustard,Rabi,401.8,15.0,3.8,0.35,1.3
+ICAR-0900,Uttar Pradesh,Cotton,Kharif,519.2,109.5,28.9,1.59,46.0
+ICAR-0901,Rajasthan,Mustard,Rabi,239.4,58.5,48.6,0.98,47.7
+ICAR-0902,Tamil Nadu,Mustard,Rabi,510.8,78.0,2.6,1.24,3.2
+ICAR-0903,Rajasthan,Rice (Paddy),Kharif,1412.0,164.5,7.3,2.83,20.6
+ICAR-0904,West Bengal,Wheat,Rabi,412.6,92.6,31.8,3.29,104.5
+ICAR-0905,Madhya Pradesh,Wheat,Rabi,307.6,126.3,57.1,3.34,190.7
+ICAR-0906,Andhra Pradesh,Bajra (Pearl Millet),Kharif,405.2,55.6,42.8,1.43,61.2
+ICAR-0907,West Bengal,Soybean,Kharif,645.8,52.3,27.2,1.46,39.7
+ICAR-0908,Andhra Pradesh,Maize,Kharif,683.4,101.7,33.1,2.74,90.8
+ICAR-0909,Haryana,Wheat,Rabi,577.4,107.2,11.9,3.58,42.5
+ICAR-0910,Haryana,Cotton,Kharif,576.0,70.8,107.0,1.41,150.9
+ICAR-0911,Tamil Nadu,Mustard,Rabi,308.5,71.1,1.5,1.37,2.1
+ICAR-0912,Uttar Pradesh,Wheat,Rabi,294.9,123.4,1.6,3.22,5.3
+ICAR-0913,Rajasthan,Groundnut,Kharif,520.3,43.9,25.4,1.16,29.4
+ICAR-0914,Tamil Nadu,Sugarcane,Whole Year,1415.2,279.3,42.3,63.66,2694.6
+ICAR-0915,Maharashtra,Chickpea (Gram),Rabi,436.1,62.7,54.4,1.19,64.8
+ICAR-0916,Tamil Nadu,Wheat,Rabi,217.4,87.4,2.5,2.95,7.2
+ICAR-0917,Bihar,Chickpea (Gram),Rabi,328.1,21.7,10.6,0.69,7.3
+ICAR-0918,Uttar Pradesh,Soybean,Kharif,516.0,89.7,10.5,1.76,18.5
+ICAR-0919,Karnataka,Sugarcane,Whole Year,1062.1,471.0,18.2,66.14,1206.8
+ICAR-0920,West Bengal,Rice (Paddy),Kharif,1203.7,124.8,100.8,3.17,319.5
+ICAR-0921,Tamil Nadu,Bajra (Pearl Millet),Kharif,314.8,40.8,14.5,1.24,18.0
+ICAR-0922,Maharashtra,Chickpea (Gram),Rabi,284.6,36.2,30.2,0.93,28.1
+ICAR-0923,Maharashtra,Bajra (Pearl Millet),Kharif,111.7,15.0,20.9,0.65,13.6
+ICAR-0924,Gujarat,Soybean,Kharif,733.8,40.8,15.6,1.14,17.8
+ICAR-0925,Rajasthan,Chickpea (Gram),Rabi,361.4,62.1,16.7,0.99,16.5
+ICAR-0926,Haryana,Mustard,Rabi,420.9,48.7,66.5,1.18,78.4
+ICAR-0927,Maharashtra,Soybean,Kharif,681.5,50.8,1.5,1.36,2.0
+ICAR-0928,Uttar Pradesh,Sugarcane,Whole Year,1733.9,252.8,48.3,58.97,2848.5
+ICAR-0929,Tamil Nadu,Rice (Paddy),Kharif,1460.1,95.7,7.0,2.97,20.9
+ICAR-0930,Gujarat,Wheat,Rabi,565.3,130.8,1.5,3.29,4.9
+ICAR-0931,Karnataka,Sugarcane,Whole Year,1895.7,280.9,40.3,58.1,2341.6
+ICAR-0932,Bihar,Bajra (Pearl Millet),Kharif,515.2,56.3,2.7,1.25,3.4
+ICAR-0933,Haryana,Wheat,Rabi,406.9,171.5,98.1,4.6,451.4
+ICAR-0934,Punjab,Maize,Kharif,868.2,148.4,24.4,3.51,85.8
+ICAR-0935,Maharashtra,Soybean,Kharif,869.0,46.1,1.5,1.2,1.8
+ICAR-0936,Gujarat,Groundnut,Kharif,494.4,42.7,42.0,1.29,54.2
+ICAR-0937,Uttar Pradesh,Groundnut,Kharif,727.4,65.9,4.0,1.5,6.0
+ICAR-0938,Punjab,Mustard,Rabi,482.8,91.3,27.4,1.55,42.5
+ICAR-0939,Maharashtra,Bajra (Pearl Millet),Kharif,383.5,54.5,15.4,1.21,18.6
+ICAR-0940,Uttar Pradesh,Soybean,Kharif,849.4,103.4,16.6,1.68,27.9
+ICAR-0941,West Bengal,Sugarcane,Whole Year,1140.9,319.8,51.5,60.38,3107.8
+ICAR-0942,Haryana,Sugarcane,Whole Year,2025.4,213.6,24.6,60.85,1499.5
+ICAR-0943,West Bengal,Chickpea (Gram),Rabi,100.0,46.7,35.0,0.97,34.0
+ICAR-0944,Bihar,Wheat,Rabi,278.9,95.6,1.5,2.62,3.9
+ICAR-0945,West Bengal,Groundnut,Kharif,598.2,49.3,2.7,1.51,4.1
+ICAR-0946,Bihar,Wheat,Rabi,429.8,107.0,8.0,3.05,24.4
+ICAR-0947,West Bengal,Bajra (Pearl Millet),Kharif,414.7,78.4,3.4,1.44,4.9
+ICAR-0948,Uttar Pradesh,Mustard,Rabi,319.0,80.7,2.1,1.48,3.0
+ICAR-0949,Maharashtra,Rice (Paddy),Kharif,1532.4,140.8,19.2,3.21,61.6
+ICAR-0950,Tamil Nadu,Groundnut,Kharif,548.9,43.6,46.9,1.11,52.1
+ICAR-0951,Tamil Nadu,Groundnut,Kharif,253.1,45.9,16.9,1.24,21.0
+ICAR-0952,Haryana,Groundnut,Kharif,710.8,24.2,2.8,1.07,3.0
+ICAR-0953,Rajasthan,Groundnut,Kharif,595.1,70.2,4.6,1.26,5.8
+ICAR-0954,Tamil Nadu,Sugarcane,Whole Year,1557.0,460.6,11.0,79.35,874.7
+ICAR-0955,Punjab,Maize,Rabi,393.3,86.5,5.1,2.59,13.2
+ICAR-0956,West Bengal,Wheat,Rabi,446.9,138.7,6.8,3.57,24.2
+ICAR-0957,Madhya Pradesh,Chickpea (Gram),Rabi,513.2,32.0,72.7,0.85,61.8
+ICAR-0958,Rajasthan,Soybean,Kharif,1084.6,76.5,10.9,1.24,13.5
+ICAR-0959,Rajasthan,Groundnut,Kharif,489.4,48.3,7.8,1.1,8.6
+ICAR-0960,Rajasthan,Groundnut,Kharif,644.8,78.3,19.7,1.45,28.5
+ICAR-0961,Uttar Pradesh,Maize,Rabi,100.0,104.7,1.5,2.38,3.6
+ICAR-0962,Maharashtra,Sugarcane,Whole Year,2901.0,372.2,50.1,52.52,2632.1
+ICAR-0963,Tamil Nadu,Cotton,Kharif,598.8,121.2,22.2,1.59,35.3
+ICAR-0964,Uttar Pradesh,Bajra (Pearl Millet),Kharif,459.6,77.6,25.4,1.39,35.3
+ICAR-0965,Andhra Pradesh,Wheat,Rabi,126.4,221.8,99.2,3.67,364.1
+ICAR-0966,Uttar Pradesh,Mustard,Rabi,391.8,86.7,4.8,1.33,6.3
+ICAR-0967,Tamil Nadu,Groundnut,Kharif,809.0,83.5,3.7,1.77,6.5
+ICAR-0968,Bihar,Wheat,Rabi,492.3,151.4,1.6,3.45,5.5
+ICAR-0969,Karnataka,Soybean,Kharif,942.6,41.0,26.2,1.04,27.3
+ICAR-0970,Punjab,Rice (Paddy),Kharif,432.2,62.5,32.1,2.38,76.4
+ICAR-0971,Punjab,Mustard,Rabi,319.4,55.2,6.9,1.33,9.2
+ICAR-0972,Karnataka,Maize,Rabi,590.8,163.4,69.3,3.07,212.8
+ICAR-0973,Gujarat,Chickpea (Gram),Rabi,317.9,36.5,46.2,0.92,42.5
+ICAR-0974,Uttar Pradesh,Chickpea (Gram),Rabi,594.1,56.7,65.3,0.96,62.7
+ICAR-0975,Gujarat,Wheat,Rabi,613.1,104.2,28.6,3.16,90.5
+ICAR-0976,Madhya Pradesh,Cotton,Kharif,927.3,132.1,4.2,1.64,6.8
+ICAR-0977,Tamil Nadu,Bajra (Pearl Millet),Kharif,430.7,52.0,30.7,1.3,39.9
+ICAR-0978,Bihar,Maize,Rabi,405.5,121.8,17.0,2.23,37.9
+ICAR-0979,Maharashtra,Sugarcane,Whole Year,278.1,282.0,89.5,46.36,4147.4
+ICAR-0980,Karnataka,Sugarcane,Whole Year,1166.4,414.8,6.1,61.85,375.3
+ICAR-0981,Uttar Pradesh,Bajra (Pearl Millet),Kharif,380.3,91.8,13.4,1.56,20.9
+ICAR-0982,West Bengal,Cotton,Kharif,632.9,114.0,55.6,1.52,84.5
+ICAR-0983,Gujarat,Groundnut,Kharif,563.0,47.3,1.5,1.48,2.2
+ICAR-0984,Punjab,Bajra (Pearl Millet),Kharif,458.0,94.9,5.3,1.59,8.4
+ICAR-0985,Uttar Pradesh,Wheat,Rabi,563.6,118.8,70.7,3.64,257.4
+ICAR-0986,Punjab,Bajra (Pearl Millet),Kharif,545.5,91.5,7.4,1.82,13.4
+ICAR-0987,Bihar,Rice (Paddy),Kharif,1310.7,189.4,40.7,2.99,121.8
+ICAR-0988,Madhya Pradesh,Rice (Paddy),Rabi,1256.5,184.5,14.1,3.38,47.8
+ICAR-0989,West Bengal,Bajra (Pearl Millet),Kharif,229.1,57.3,12.3,1.38,17.0
+ICAR-0990,Madhya Pradesh,Wheat,Rabi,498.7,117.3,2.2,3.47,7.5
+ICAR-0991,Karnataka,Wheat,Rabi,612.8,103.1,14.6,3.26,47.6
+ICAR-0992,Andhra Pradesh,Groundnut,Kharif,602.4,24.6,11.4,0.92,10.5
+ICAR-0993,Bihar,Rice (Paddy),Kharif,2143.8,152.2,7.8,2.55,20.0
+ICAR-0994,Maharashtra,Bajra (Pearl Millet),Kharif,360.4,56.0,24.1,1.3,31.3
+ICAR-0995,West Bengal,Rice (Paddy),Rabi,957.4,130.6,5.4,3.22,17.3
+ICAR-0996,Bihar,Bajra (Pearl Millet),Kharif,455.4,65.6,17.8,1.43,25.4
+ICAR-0997,Rajasthan,Mustard,Rabi,321.9,52.5,35.9,0.97,34.9
+ICAR-0998,Haryana,Cotton,Kharif,934.3,144.6,13.5,1.93,26.1
+ICAR-0999,Tamil Nadu,Chickpea (Gram),Rabi,603.7,35.1,7.8,0.84,6.6
+ICAR-1000,Rajasthan,Groundnut,Kharif,943.5,45.2,47.2,0.98,46.2
+ICAR-1001,Bihar,Rice (Paddy),Rabi,168.7,69.6,21.8,1.48,32.3
+ICAR-1002,Punjab,Cotton,Kharif,634.4,116.8,5.4,1.96,10.5
+ICAR-1003,Gujarat,Soybean,Kharif,919.2,88.9,18.9,1.76,33.2
+ICAR-1004,Haryana,Mustard,Rabi,265.9,86.2,2.3,1.46,3.4
+ICAR-1005,Punjab,Cotton,Kharif,967.4,145.3,116.8,1.88,219.6
+ICAR-1006,Karnataka,Mustard,Rabi,129.3,72.4,19.9,1.2,23.9
+ICAR-1007,Uttar Pradesh,Cotton,Kharif,777.7,120.0,18.5,1.63,30.1
+ICAR-1008,West Bengal,Cotton,Kharif,657.3,105.4,48.5,1.52,73.8
+ICAR-1009,Punjab,Soybean,Kharif,1058.0,62.8,37.3,1.67,62.3
+ICAR-1010,Andhra Pradesh,Bajra (Pearl Millet),Kharif,466.8,76.8,2.7,1.41,3.8
+ICAR-1011,Maharashtra,Wheat,Rabi,655.2,109.9,17.0,3.11,52.8
+ICAR-1012,Rajasthan,Groundnut,Kharif,451.3,49.2,24.0,1.25,30.1
+ICAR-1013,Madhya Pradesh,Maize,Kharif,267.4,128.0,1.5,2.87,4.3
+ICAR-1014,Gujarat,Chickpea (Gram),Rabi,689.2,35.1,20.1,0.76,15.2
+ICAR-1015,Uttar Pradesh,Wheat,Rabi,548.7,119.2,5.3,3.19,16.9
+ICAR-1016,Andhra Pradesh,Cotton,Kharif,1197.3,67.9,29.0,1.05,30.4
+ICAR-1017,Punjab,Bajra (Pearl Millet),Kharif,632.2,57.8,47.8,1.23,58.7
+ICAR-1018,Punjab,Cotton,Kharif,543.0,80.6,14.9,1.67,24.9
+ICAR-1019,Andhra Pradesh,Soybean,Kharif,969.1,74.2,18.2,1.56,28.4
+ICAR-1020,Maharashtra,Groundnut,Kharif,397.6,55.6,24.4,1.73,42.1
+ICAR-1021,Haryana,Chickpea (Gram),Rabi,336.4,37.6,17.0,1.1,18.6
+ICAR-1022,Punjab,Bajra (Pearl Millet),Kharif,421.8,42.0,12.3,1.44,17.7
+ICAR-1023,Maharashtra,Maize,Rabi,618.7,117.5,6.3,2.65,16.6
+ICAR-1024,Punjab,Mustard,Rabi,424.8,68.8,2.2,1.46,3.2
+ICAR-1025,Madhya Pradesh,Cotton,Kharif,301.6,125.2,10.7,1.63,17.5
+ICAR-1026,Tamil Nadu,Soybean,Kharif,1061.8,60.7,6.0,1.38,8.2
+ICAR-1027,Uttar Pradesh,Mustard,Rabi,476.7,65.8,20.2,1.28,25.9
+ICAR-1028,Gujarat,Mustard,Rabi,205.9,93.8,88.1,1.49,131.3
+ICAR-1029,West Bengal,Maize,Kharif,670.7,56.8,2.3,2.03,4.6
+ICAR-1030,Uttar Pradesh,Bajra (Pearl Millet),Kharif,768.1,25.2,18.4,0.61,11.3
+ICAR-1031,Madhya Pradesh,Rice (Paddy),Rabi,1442.4,66.5,1.5,2.25,3.4
+ICAR-1032,Punjab,Chickpea (Gram),Rabi,332.5,24.9,28.2,1.03,29.1
+ICAR-1033,Madhya Pradesh,Cotton,Kharif,728.1,112.3,26.7,1.62,43.2
+ICAR-1034,Tamil Nadu,Cotton,Kharif,543.4,68.5,25.3,1.29,32.7
+ICAR-1035,Karnataka,Cotton,Kharif,925.0,103.6,17.5,1.47,25.7
+ICAR-1036,Andhra Pradesh,Bajra (Pearl Millet),Kharif,413.7,43.5,15.9,1.4,22.3
+ICAR-1037,Punjab,Maize,Rabi,504.1,73.7,4.9,2.86,13.9
+ICAR-1038,Punjab,Sugarcane,Whole Year,2761.6,230.8,7.3,57.0,413.7
+ICAR-1039,Gujarat,Rice (Paddy),Rabi,2292.0,174.7,11.4,2.75,31.3
+ICAR-1040,Rajasthan,Bajra (Pearl Millet),Kharif,564.6,61.9,68.9,1.01,69.6
+ICAR-1041,Gujarat,Mustard,Rabi,394.1,86.3,7.1,1.29,9.2
+ICAR-1042,Rajasthan,Groundnut,Kharif,759.4,53.8,13.0,1.3,16.9
+ICAR-1043,Andhra Pradesh,Sugarcane,Whole Year,2632.1,294.2,4.7,63.51,299.1
+ICAR-1044,Rajasthan,Wheat,Rabi,600.9,101.3,3.7,3.0,11.2
+ICAR-1045,Punjab,Wheat,Rabi,801.7,95.4,7.4,3.31,24.5
+ICAR-1046,Haryana,Chickpea (Gram),Rabi,262.2,40.9,13.2,1.2,15.9
+ICAR-1047,Madhya Pradesh,Bajra (Pearl Millet),Kharif,200.6,54.4,14.4,1.15,16.6
+ICAR-1048,Madhya Pradesh,Wheat,Rabi,149.3,83.7,1.7,2.61,4.4
+ICAR-1049,Maharashtra,Rice (Paddy),Rabi,1745.9,118.2,12.3,2.62,32.2
+ICAR-1050,Madhya Pradesh,Chickpea (Gram),Rabi,510.7,62.5,8.2,1.06,8.7
+ICAR-1051,Karnataka,Cotton,Kharif,399.3,133.9,20.3,1.75,35.5
+ICAR-1052,Punjab,Sugarcane,Whole Year,2036.4,281.1,18.9,68.54,1292.2
+ICAR-1053,Andhra Pradesh,Mustard,Rabi,477.6,48.9,5.8,1.14,6.6
+ICAR-1054,Bihar,Bajra (Pearl Millet),Kharif,454.9,65.0,33.8,1.38,46.6
+ICAR-1055,Haryana,Rice (Paddy),Rabi,570.1,201.1,9.1,3.86,35.0
+ICAR-1056,Punjab,Rice (Paddy),Kharif,636.1,102.3,6.4,3.05,19.7
+ICAR-1057,Madhya Pradesh,Soybean,Kharif,1077.4,49.4,43.4,1.17,50.8
+ICAR-1058,Haryana,Mustard,Rabi,482.6,129.6,54.5,1.54,83.9
+ICAR-1059,Tamil Nadu,Sugarcane,Whole Year,2681.8,310.8,1.5,65.49,98.2
+ICAR-1060,Madhya Pradesh,Wheat,Rabi,474.7,128.8,4.2,3.39,14.3
+ICAR-1061,Maharashtra,Cotton,Kharif,523.5,128.5,54.9,1.47,80.6
+ICAR-1062,Rajasthan,Sugarcane,Whole Year,1685.0,328.3,48.0,58.19,2793.8
+ICAR-1063,Rajasthan,Rice (Paddy),Rabi,1023.5,149.1,123.5,2.46,303.7
+ICAR-1064,Andhra Pradesh,Soybean,Kharif,642.6,44.5,82.3,1.28,105.4
+ICAR-1065,Gujarat,Soybean,Kharif,634.6,68.8,22.8,1.42,32.4
+ICAR-1066,Uttar Pradesh,Soybean,Kharif,895.2,116.7,18.4,1.85,34.0
+ICAR-1067,Maharashtra,Groundnut,Kharif,458.4,58.6,51.0,1.41,71.9
+ICAR-1068,Haryana,Groundnut,Kharif,712.8,80.6,3.7,1.82,6.8
+ICAR-1069,Punjab,Mustard,Rabi,615.0,100.8,8.0,1.47,11.8
+ICAR-1070,Uttar Pradesh,Rice (Paddy),Rabi,1035.7,67.1,3.3,2.13,7.1
+ICAR-1071,Punjab,Maize,Rabi,471.5,89.1,157.9,2.84,448.5
+ICAR-1072,Uttar Pradesh,Bajra (Pearl Millet),Kharif,336.4,70.3,38.8,1.32,51.3
+ICAR-1073,Punjab,Soybean,Kharif,303.0,52.9,9.5,1.32,12.6
+ICAR-1074,Madhya Pradesh,Cotton,Kharif,732.2,104.8,18.4,1.65,30.3
+ICAR-1075,Gujarat,Bajra (Pearl Millet),Kharif,310.3,69.7,6.0,1.41,8.5
+ICAR-1076,Uttar Pradesh,Maize,Rabi,1080.9,105.6,24.1,2.25,54.3
+ICAR-1077,Maharashtra,Cotton,Kharif,1200.8,163.1,31.8,1.44,45.7
+ICAR-1078,Haryana,Bajra (Pearl Millet),Kharif,603.8,61.4,12.8,1.22,15.6
+ICAR-1079,Madhya Pradesh,Bajra (Pearl Millet),Kharif,117.0,38.7,29.3,0.92,26.9
+ICAR-1080,Gujarat,Soybean,Kharif,918.6,75.0,1.9,1.57,2.9
+ICAR-1081,Andhra Pradesh,Soybean,Kharif,286.9,76.5,12.5,1.5,18.7
+ICAR-1082,Bihar,Sugarcane,Whole Year,1010.1,415.9,10.2,60.07,615.6
+ICAR-1083,Uttar Pradesh,Groundnut,Kharif,580.1,29.5,5.0,1.32,6.6
+ICAR-1084,Maharashtra,Soybean,Kharif,810.5,94.3,1.5,1.57,2.4
+ICAR-1085,Andhra Pradesh,Rice (Paddy),Rabi,2177.9,130.4,17.9,2.92,52.2
+ICAR-1086,Uttar Pradesh,Rice (Paddy),Rabi,1212.2,145.8,16.4,3.59,59.0
+ICAR-1087,Haryana,Groundnut,Kharif,643.2,58.3,7.6,1.83,13.9
+ICAR-1088,Maharashtra,Maize,Rabi,765.6,98.3,8.6,2.41,20.8
+ICAR-1089,Gujarat,Cotton,Kharif,948.4,102.7,23.9,1.54,36.8
+ICAR-1090,Gujarat,Maize,Rabi,647.2,192.0,1.5,3.46,5.2
+ICAR-1091,West Bengal,Cotton,Kharif,1101.2,143.3,25.4,1.55,39.4
+ICAR-1092,Bihar,Bajra (Pearl Millet),Kharif,343.1,24.4,36.3,0.76,27.6
+ICAR-1093,Rajasthan,Chickpea (Gram),Rabi,485.3,22.7,19.3,0.66,12.7
+ICAR-1094,Gujarat,Wheat,Rabi,393.9,142.4,2.4,3.67,9.0
+ICAR-1095,Bihar,Cotton,Kharif,912.7,39.7,28.3,0.8,22.6
+ICAR-1096,Haryana,Chickpea (Gram),Rabi,384.9,52.1,25.7,1.23,31.6
+ICAR-1097,Bihar,Mustard,Rabi,299.6,98.0,27.0,1.19,32.1
+ICAR-1098,Andhra Pradesh,Groundnut,Kharif,590.3,56.0,4.6,1.71,7.8
+ICAR-1099,West Bengal,Cotton,Kharif,793.4,64.4,68.3,1.24,84.6
+ICAR-1100,Tamil Nadu,Maize,Kharif,748.8,155.7,40.5,3.1,125.6
+ICAR-1101,Punjab,Chickpea (Gram),Rabi,265.8,51.6,56.7,1.22,69.1
+ICAR-1102,Rajasthan,Rice (Paddy),Kharif,259.6,122.3,5.2,2.27,11.7
+ICAR-1103,Punjab,Maize,Kharif,460.4,175.9,10.6,3.6,38.2
+ICAR-1104,West Bengal,Bajra (Pearl Millet),Kharif,486.6,66.6,30.9,1.32,40.8
+ICAR-1105,Gujarat,Maize,Rabi,637.3,116.0,11.0,2.89,31.8
+ICAR-1106,Punjab,Wheat,Rabi,704.9,123.7,1.5,4.1,6.1
+ICAR-1107,Madhya Pradesh,Rice (Paddy),Rabi,1442.7,101.4,8.4,3.01,25.2
+ICAR-1108,Bihar,Wheat,Rabi,713.0,113.8,22.3,2.78,62.1
+ICAR-1109,Gujarat,Soybean,Kharif,1281.7,54.5,1.5,1.19,1.8
+ICAR-1110,Karnataka,Maize,Kharif,334.7,108.9,8.0,2.24,17.8
+ICAR-1111,Uttar Pradesh,Rice (Paddy),Rabi,1424.2,129.4,60.4,3.12,188.5
+ICAR-1112,Bihar,Groundnut,Kharif,769.7,26.3,12.3,0.85,10.4
+ICAR-1113,Uttar Pradesh,Bajra (Pearl Millet),Kharif,316.4,39.8,14.2,1.14,16.1
+ICAR-1114,Rajasthan,Rice (Paddy),Rabi,1334.6,219.8,20.3,3.23,65.7
+ICAR-1115,Punjab,Mustard,Rabi,493.0,58.7,14.2,1.48,21.0
+ICAR-1116,Karnataka,Groundnut,Kharif,569.3,29.7,1.5,1.08,1.6
+ICAR-1117,Gujarat,Soybean,Kharif,916.8,80.5,3.4,1.64,5.6
+ICAR-1118,Uttar Pradesh,Chickpea (Gram),Rabi,148.2,43.0,27.3,0.87,23.7
+ICAR-1119,Rajasthan,Mustard,Rabi,241.4,90.5,2.8,1.14,3.2
+ICAR-1120,Maharashtra,Groundnut,Kharif,724.5,43.5,1.5,1.2,1.8
+ICAR-1121,Bihar,Mustard,Rabi,477.2,77.1,13.2,1.09,14.4
+ICAR-1122,Punjab,Soybean,Kharif,840.3,78.2,8.3,1.77,14.7
+ICAR-1123,Rajasthan,Groundnut,Kharif,416.0,74.3,16.7,1.53,25.5
+ICAR-1124,West Bengal,Mustard,Rabi,398.8,94.4,26.7,1.46,39.0
+ICAR-1125,Maharashtra,Cotton,Kharif,784.3,94.2,24.6,1.39,34.2
+ICAR-1126,Maharashtra,Rice (Paddy),Rabi,1683.3,125.7,82.0,2.84,232.9
+ICAR-1127,Andhra Pradesh,Wheat,Rabi,573.9,108.2,18.3,2.95,53.9
+ICAR-1128,Maharashtra,Cotton,Kharif,645.7,90.0,24.8,1.53,37.9
+ICAR-1129,Tamil Nadu,Sugarcane,Whole Year,1689.0,287.0,49.1,56.89,2793.7
+ICAR-1130,Karnataka,Sugarcane,Whole Year,1613.8,395.8,2.5,62.33,158.7
+ICAR-1131,Rajasthan,Groundnut,Kharif,131.1,46.1,9.8,1.03,10.1
+ICAR-1132,West Bengal,Sugarcane,Whole Year,550.1,134.7,17.4,43.1,751.0
+ICAR-1133,Rajasthan,Groundnut,Kharif,480.9,120.1,17.6,1.69,29.7
+ICAR-1134,Tamil Nadu,Cotton,Kharif,627.5,121.9,67.4,1.63,109.8
+ICAR-1135,Uttar Pradesh,Sugarcane,Whole Year,1200.8,251.3,18.3,57.96,1058.7
+ICAR-1136,Tamil Nadu,Sugarcane,Whole Year,1335.1,385.4,15.2,68.57,1044.6
+ICAR-1137,West Bengal,Mustard,Rabi,358.4,35.7,4.0,1.01,4.0
+ICAR-1138,West Bengal,Rice (Paddy),Rabi,2126.2,141.1,90.7,2.63,238.5
+ICAR-1139,Gujarat,Bajra (Pearl Millet),Kharif,366.0,71.0,1.5,1.43,2.1
+ICAR-1140,West Bengal,Soybean,Kharif,827.7,90.4,27.1,1.64,44.5
+ICAR-1141,Uttar Pradesh,Groundnut,Kharif,970.7,81.1,43.6,1.56,68.1
+ICAR-1142,Rajasthan,Rice (Paddy),Rabi,950.0,113.4,44.8,2.14,95.8
+ICAR-1143,Andhra Pradesh,Bajra (Pearl Millet),Kharif,186.5,48.8,100.6,1.22,122.8
+ICAR-1144,Punjab,Chickpea (Gram),Rabi,523.9,21.9,34.1,0.76,26.0
+ICAR-1145,Maharashtra,Wheat,Rabi,136.9,55.8,56.5,1.97,111.3
+ICAR-1146,Maharashtra,Rice (Paddy),Kharif,1004.6,194.3,1.5,3.84,5.8
+ICAR-1147,Gujarat,Rice (Paddy),Kharif,1258.9,78.4,19.7,2.43,47.8
+ICAR-1148,Punjab,Maize,Rabi,666.7,75.2,95.7,2.64,252.7
+ICAR-1149,Punjab,Sugarcane,Whole Year,370.2,262.4,25.5,58.47,1490.9
+ICAR-1150,Madhya Pradesh,Rice (Paddy),Kharif,794.0,118.2,38.9,3.04,118.4
+ICAR-1151,Uttar Pradesh,Maize,Rabi,1037.8,108.4,7.7,2.54,19.5
+ICAR-1152,Uttar Pradesh,Rice (Paddy),Rabi,1401.2,74.6,30.3,2.93,88.9
+ICAR-1153,Haryana,Chickpea (Gram),Rabi,472.8,33.7,5.2,0.96,5.0
+ICAR-1154,West Bengal,Sugarcane,Whole Year,2029.4,96.5,6.7,35.04,233.6
+ICAR-1155,Tamil Nadu,Cotton,Kharif,972.9,67.9,19.1,1.25,23.8
+ICAR-1156,Andhra Pradesh,Mustard,Rabi,422.4,138.4,7.8,1.38,10.8
+ICAR-1157,West Bengal,Chickpea (Gram),Rabi,626.2,41.5,70.6,0.85,60.0
+ICAR-1158,Madhya Pradesh,Maize,Rabi,654.7,128.1,4.8,2.77,13.4
+ICAR-1159,Rajasthan,Chickpea (Gram),Rabi,247.6,55.4,7.9,0.9,7.1
+ICAR-1160,Uttar Pradesh,Rice (Paddy),Rabi,1952.1,134.8,21.6,2.39,51.7
+ICAR-1161,Gujarat,Wheat,Rabi,152.1,137.0,13.7,3.11,42.7
+ICAR-1162,Karnataka,Sugarcane,Whole Year,1237.6,169.5,28.8,42.79,1230.5
+ICAR-1163,Haryana,Chickpea (Gram),Rabi,623.9,53.1,9.8,1.04,10.2
+ICAR-1164,Bihar,Maize,Kharif,281.5,110.5,1.5,2.46,3.7
+ICAR-1165,Gujarat,Rice (Paddy),Kharif,1330.6,122.4,21.2,2.67,56.7
+ICAR-1166,Madhya Pradesh,Cotton,Kharif,434.3,41.0,1.8,0.86,1.6
+ICAR-1167,Tamil Nadu,Bajra (Pearl Millet),Kharif,121.0,43.9,18.1,1.24,22.5
+ICAR-1168,Gujarat,Cotton,Kharif,454.0,79.3,3.1,1.3,4.0
+ICAR-1169,Karnataka,Maize,Rabi,351.2,55.3,15.8,1.63,25.8
+ICAR-1170,Haryana,Bajra (Pearl Millet),Kharif,345.2,82.4,8.4,1.86,15.7
+ICAR-1171,Haryana,Maize,Rabi,642.2,127.8,6.5,3.24,20.9
+ICAR-1172,Rajasthan,Bajra (Pearl Millet),Kharif,328.6,35.5,30.8,1.03,31.7
+ICAR-1173,Maharashtra,Soybean,Kharif,1083.2,43.4,3.1,0.91,2.8
+ICAR-1174,Haryana,Chickpea (Gram),Rabi,565.2,58.3,170.4,1.2,204.5
+ICAR-1175,Bihar,Sugarcane,Whole Year,923.7,239.5,7.4,42.87,318.5
+ICAR-1176,West Bengal,Rice (Paddy),Kharif,1096.5,143.9,44.7,3.31,148.1
+ICAR-1177,Tamil Nadu,Rice (Paddy),Kharif,1266.4,185.9,12.7,3.99,50.7
+ICAR-1178,Rajasthan,Soybean,Kharif,839.5,66.8,10.5,1.32,13.9
+ICAR-1179,Uttar Pradesh,Rice (Paddy),Rabi,1347.2,121.9,7.2,3.15,22.6
+ICAR-1180,Karnataka,Sugarcane,Whole Year,1933.3,316.0,4.7,62.84,293.2
+ICAR-1181,Bihar,Wheat,Rabi,525.0,78.5,17.5,2.55,44.7
+ICAR-1182,Maharashtra,Rice (Paddy),Kharif,126.1,146.8,73.1,2.28,166.8
+ICAR-1183,Madhya Pradesh,Mustard,Rabi,472.0,38.7,66.6,0.96,64.0
+ICAR-1184,Madhya Pradesh,Bajra (Pearl Millet),Kharif,433.6,73.4,1.5,1.38,2.1
+ICAR-1185,Haryana,Bajra (Pearl Millet),Kharif,764.6,65.0,32.6,1.3,42.4
+ICAR-1186,Punjab,Wheat,Rabi,201.1,211.4,7.5,4.74,35.6
+ICAR-1187,Maharashtra,Sugarcane,Whole Year,1647.2,299.5,15.2,57.8,880.1
+ICAR-1188,Madhya Pradesh,Groundnut,Kharif,618.0,32.5,5.3,0.99,5.3
+ICAR-1189,Uttar Pradesh,Sugarcane,Whole Year,1886.1,282.1,4.6,65.17,297.4
+ICAR-1190,Haryana,Mustard,Rabi,285.4,72.2,27.1,1.52,41.2
+ICAR-1191,Karnataka,Rice (Paddy),Kharif,1613.1,91.4,19.6,2.52,49.3
+ICAR-1192,Karnataka,Sugarcane,Whole Year,866.3,158.5,8.7,46.94,406.3
+ICAR-1193,Bihar,Groundnut,Kharif,505.9,80.1,33.0,1.75,57.8
+ICAR-1194,Madhya Pradesh,Cotton,Kharif,978.9,84.8,31.8,1.44,45.8
+ICAR-1195,West Bengal,Soybean,Kharif,820.7,109.5,12.1,1.75,21.1
+ICAR-1196,Punjab,Rice (Paddy),Rabi,1024.5,158.3,32.3,3.84,123.9
+ICAR-1197,Uttar Pradesh,Rice (Paddy),Rabi,1298.6,145.8,11.7,3.47,40.7
+ICAR-1198,Tamil Nadu,Groundnut,Kharif,430.2,74.8,9.4,1.76,16.5
+ICAR-1199,Uttar Pradesh,Soybean,Kharif,979.6,81.7,53.2,1.59,84.6
+ICAR-1200,Maharashtra,Soybean,Kharif,1223.6,67.9,1.5,1.44,2.2
+ICAR-1201,Bihar,Rice (Paddy),Kharif,1224.3,158.8,49.3,2.77,136.7
+ICAR-1202,Haryana,Rice (Paddy),Kharif,1349.0,96.4,3.9,3.38,13.3
+ICAR-1203,Uttar Pradesh,Wheat,Rabi,479.8,92.8,1.5,3.37,5.1
+ICAR-1204,Maharashtra,Sugarcane,Whole Year,1844.9,270.7,24.4,55.73,1360.3
+ICAR-1205,Tamil Nadu,Chickpea (Gram),Rabi,362.2,39.3,6.0,1.09,6.5
+ICAR-1206,Andhra Pradesh,Cotton,Kharif,1087.9,175.3,37.7,1.71,64.5
+ICAR-1207,Uttar Pradesh,Maize,Kharif,875.2,149.4,31.5,3.0,94.5
+ICAR-1208,Gujarat,Mustard,Rabi,601.5,91.7,8.9,1.19,10.6
+ICAR-1209,West Bengal,Chickpea (Gram),Rabi,494.6,26.9,29.5,0.79,23.3
+ICAR-1210,Karnataka,Wheat,Rabi,584.6,233.0,34.6,3.85,133.2
+ICAR-1211,Maharashtra,Rice (Paddy),Kharif,1890.7,228.2,33.6,2.74,92.2
+ICAR-1212,Gujarat,Rice (Paddy),Rabi,1247.4,176.4,1.9,3.35,6.3
+ICAR-1213,West Bengal,Sugarcane,Whole Year,1931.4,361.3,3.4,71.13,241.2
+ICAR-1214,Madhya Pradesh,Rice (Paddy),Rabi,1191.9,116.5,1.5,2.96,4.4
+ICAR-1215,Tamil Nadu,Groundnut,Kharif,956.1,71.2,19.3,1.42,27.4
+ICAR-1216,Andhra Pradesh,Bajra (Pearl Millet),Kharif,292.6,64.8,20.2,1.51,30.5
+ICAR-1217,Haryana,Rice (Paddy),Rabi,1321.5,100.0,65.9,3.07,202.3
+ICAR-1218,Punjab,Mustard,Rabi,273.4,106.0,5.0,1.72,8.5
+ICAR-1219,Gujarat,Groundnut,Kharif,279.6,42.8,51.9,1.36,70.6
+ICAR-1220,Haryana,Groundnut,Kharif,1218.2,68.5,4.5,1.38,6.2
+ICAR-1221,Rajasthan,Groundnut,Kharif,490.7,63.6,1.5,1.54,2.3
+ICAR-1222,Bihar,Chickpea (Gram),Rabi,349.9,56.1,7.6,0.98,7.4
+ICAR-1223,Uttar Pradesh,Chickpea (Gram),Rabi,340.8,45.5,2.1,1.15,2.4
+ICAR-1224,West Bengal,Mustard,Rabi,364.8,42.6,11.9,1.08,12.8
+ICAR-1225,West Bengal,Mustard,Rabi,578.9,75.8,7.2,1.05,7.5
+ICAR-1226,Tamil Nadu,Bajra (Pearl Millet),Kharif,215.0,79.6,56.9,1.5,85.3
+ICAR-1227,Rajasthan,Wheat,Rabi,227.5,164.5,25.4,2.96,75.3
+ICAR-1228,Tamil Nadu,Sugarcane,Whole Year,1146.0,280.1,28.4,67.13,1906.5
+ICAR-1229,Gujarat,Sugarcane,Whole Year,2213.7,293.2,5.7,57.25,325.5
+ICAR-1230,Punjab,Groundnut,Kharif,743.4,103.4,9.6,2.08,19.9
+ICAR-1231,Maharashtra,Maize,Kharif,852.5,136.1,7.4,2.56,19.0
+ICAR-1232,Maharashtra,Wheat,Rabi,390.8,54.4,12.0,2.34,28.1
+ICAR-1233,Tamil Nadu,Mustard,Rabi,305.5,113.5,48.6,1.51,73.3
+ICAR-1234,West Bengal,Cotton,Kharif,865.1,65.7,52.3,1.19,62.2
+ICAR-1235,Punjab,Sugarcane,Whole Year,2802.6,353.6,12.1,67.47,814.7
+ICAR-1236,Rajasthan,Sugarcane,Whole Year,2463.4,312.9,46.2,47.93,2214.4
+ICAR-1237,Haryana,Chickpea (Gram),Rabi,241.7,44.8,1.5,1.28,1.9
+ICAR-1238,Bihar,Groundnut,Kharif,386.4,43.1,21.2,1.24,26.2
+ICAR-1239,Tamil Nadu,Groundnut,Kharif,555.2,58.0,1.5,1.51,2.3
+ICAR-1240,Bihar,Bajra (Pearl Millet),Kharif,516.0,65.2,8.8,1.25,11.0
+ICAR-1241,Uttar Pradesh,Groundnut,Kharif,777.9,80.7,10.0,1.87,18.6
+ICAR-1242,Uttar Pradesh,Cotton,Kharif,825.9,92.2,13.4,1.36,18.3
+ICAR-1243,Rajasthan,Bajra (Pearl Millet),Kharif,510.9,62.3,2.8,1.12,3.1
+ICAR-1244,Gujarat,Wheat,Rabi,538.3,95.1,4.1,2.73,11.1
+ICAR-1245,West Bengal,Mustard,Rabi,375.4,65.5,16.5,1.13,18.6
+ICAR-1246,Haryana,Bajra (Pearl Millet),Kharif,144.5,79.6,35.6,1.56,55.5
+ICAR-1247,Bihar,Rice (Paddy),Kharif,761.6,97.0,41.7,2.67,111.2
+ICAR-1248,Punjab,Mustard,Rabi,457.3,58.0,3.0,1.37,4.1
+ICAR-1249,Madhya Pradesh,Chickpea (Gram),Rabi,557.2,57.5,4.9,1.08,5.3
+ICAR-1250,Gujarat,Maize,Kharif,573.8,87.4,94.8,2.68,254.0
+ICAR-1251,Andhra Pradesh,Rice (Paddy),Kharif,1114.1,106.0,158.3,3.31,524.0
+ICAR-1252,West Bengal,Rice (Paddy),Kharif,1616.7,97.9,24.5,2.64,64.7
+ICAR-1253,Rajasthan,Mustard,Rabi,199.7,104.3,4.7,1.25,5.9
+ICAR-1254,Andhra Pradesh,Sugarcane,Whole Year,1483.7,346.9,22.1,65.92,1455.2
+ICAR-1255,Karnataka,Cotton,Kharif,983.2,163.0,68.6,1.56,107.1
+ICAR-1256,Maharashtra,Sugarcane,Whole Year,1722.0,283.1,4.2,62.18,259.5
+ICAR-1257,West Bengal,Soybean,Kharif,1091.1,88.9,30.9,1.51,46.6
+ICAR-1258,Gujarat,Groundnut,Kharif,486.3,61.6,9.8,1.44,14.0
+ICAR-1259,Haryana,Chickpea (Gram),Rabi,262.8,50.2,29.0,1.26,36.6
+ICAR-1260,Uttar Pradesh,Soybean,Kharif,1078.1,72.4,7.5,1.54,11.6
+ICAR-1261,Tamil Nadu,Soybean,Kharif,1157.6,88.9,9.0,1.57,14.2
+ICAR-1262,Madhya Pradesh,Cotton,Kharif,521.6,138.4,1.5,1.56,2.3
+ICAR-1263,West Bengal,Cotton,Kharif,664.0,146.6,18.5,1.59,29.4
+ICAR-1264,Andhra Pradesh,Chickpea (Gram),Rabi,274.1,57.9,17.2,1.2,20.7
+ICAR-1265,Haryana,Cotton,Kharif,447.0,184.5,34.2,2.08,71.1
+ICAR-1266,Gujarat,Wheat,Rabi,533.3,178.5,51.9,3.66,189.8
+ICAR-1267,Maharashtra,Sugarcane,Whole Year,2235.3,242.6,10.6,52.44,557.7
+ICAR-1268,Maharashtra,Sugarcane,Whole Year,2938.8,433.9,14.5,54.98,794.6
+ICAR-1269,Haryana,Soybean,Kharif,1003.2,75.4,26.4,1.63,43.1
+ICAR-1270,Karnataka,Cotton,Kharif,1074.3,64.4,49.2,1.19,58.5
+ICAR-1271,Madhya Pradesh,Cotton,Kharif,227.1,67.7,69.5,1.14,79.3
+ICAR-1272,Madhya Pradesh,Bajra (Pearl Millet),Kharif,306.7,50.6,31.4,1.23,38.6
+ICAR-1273,Uttar Pradesh,Mustard,Rabi,403.9,36.0,32.8,0.97,31.8
+ICAR-1274,West Bengal,Mustard,Rabi,357.1,102.8,33.6,1.39,46.7
+ICAR-1275,West Bengal,Cotton,Kharif,853.9,114.7,32.7,1.56,51.0
+ICAR-1276,Andhra Pradesh,Bajra (Pearl Millet),Kharif,526.1,76.3,2.2,1.52,3.3
+ICAR-1277,Bihar,Rice (Paddy),Rabi,1024.6,134.7,40.4,2.64,106.6
+ICAR-1278,Rajasthan,Cotton,Kharif,865.2,137.8,17.3,1.47,25.4
+ICAR-1279,Andhra Pradesh,Bajra (Pearl Millet),Kharif,250.9,91.1,8.2,1.59,13.1
+ICAR-1280,Andhra Pradesh,Soybean,Kharif,1090.8,69.2,2.9,1.5,4.3
+ICAR-1281,Gujarat,Bajra (Pearl Millet),Kharif,737.1,74.5,20.6,1.25,25.7
+ICAR-1282,Andhra Pradesh,Maize,Kharif,650.4,135.8,19.4,3.1,60.0
+ICAR-1283,Rajasthan,Bajra (Pearl Millet),Kharif,146.2,32.5,1.5,0.97,1.5
+ICAR-1284,Andhra Pradesh,Groundnut,Kharif,714.9,53.5,6.9,1.7,11.8
+ICAR-1285,Uttar Pradesh,Cotton,Kharif,605.5,126.8,31.1,1.56,48.5
+ICAR-1286,Gujarat,Maize,Kharif,282.9,112.2,16.4,2.48,40.7
+ICAR-1287,Tamil Nadu,Chickpea (Gram),Rabi,398.0,40.6,14.3,1.08,15.5
+ICAR-1288,Uttar Pradesh,Bajra (Pearl Millet),Kharif,313.6,25.8,25.4,0.91,23.1
+ICAR-1289,Andhra Pradesh,Rice (Paddy),Rabi,1095.3,127.7,1.5,3.22,4.8
+ICAR-1290,Gujarat,Sugarcane,Whole Year,2254.4,223.7,117.7,48.89,5755.6
+ICAR-1291,Karnataka,Mustard,Rabi,275.3,50.5,10.0,1.0,10.0
+ICAR-1292,Rajasthan,Rice (Paddy),Rabi,1408.9,187.9,8.5,2.73,23.3
+ICAR-1293,Karnataka,Chickpea (Gram),Rabi,350.6,32.6,36.9,0.91,33.5
+ICAR-1294,West Bengal,Wheat,Rabi,435.6,138.1,99.1,3.66,362.6
+ICAR-1295,Maharashtra,Rice (Paddy),Rabi,2501.7,152.5,9.4,2.56,24.1
+ICAR-1296,Rajasthan,Chickpea (Gram),Rabi,258.9,38.3,10.5,0.81,8.5
+ICAR-1297,Rajasthan,Sugarcane,Whole Year,2035.0,285.4,35.8,51.93,1860.7
+ICAR-1298,Maharashtra,Maize,Rabi,214.8,83.1,31.0,2.17,67.2
+ICAR-1299,Uttar Pradesh,Groundnut,Kharif,605.6,58.0,10.1,1.51,15.3
+ICAR-1300,Maharashtra,Sugarcane,Whole Year,2215.4,369.5,7.3,61.37,445.1
+ICAR-1301,Karnataka,Mustard,Rabi,505.4,86.1,2.2,1.28,2.9
+ICAR-1302,Bihar,Sugarcane,Whole Year,1361.5,389.7,29.8,55.77,1660.3
+ICAR-1303,Andhra Pradesh,Bajra (Pearl Millet),Kharif,458.5,105.7,33.9,1.41,47.8
+ICAR-1304,West Bengal,Rice (Paddy),Rabi,1398.5,124.5,22.2,3.23,71.6
+ICAR-1305,Gujarat,Bajra (Pearl Millet),Kharif,472.4,65.4,14.8,1.52,22.5
+ICAR-1306,Karnataka,Maize,Kharif,604.3,140.8,24.0,2.95,70.9
+ICAR-1307,Karnataka,Chickpea (Gram),Rabi,288.8,56.1,30.8,1.05,32.4
+ICAR-1308,Haryana,Sugarcane,Whole Year,1490.1,15.0,7.9,11.84,93.4
+ICAR-1309,Rajasthan,Wheat,Rabi,339.4,122.3,4.7,2.89,13.6
+ICAR-1310,West Bengal,Maize,Rabi,429.3,143.2,30.5,2.91,88.6
+ICAR-1311,Maharashtra,Cotton,Kharif,677.2,68.6,3.4,1.04,3.5
+ICAR-1312,Madhya Pradesh,Groundnut,Kharif,902.2,55.4,23.4,1.31,30.7
+ICAR-1313,Rajasthan,Mustard,Rabi,413.7,73.4,44.9,1.2,53.9
+ICAR-1314,Andhra Pradesh,Sugarcane,Whole Year,1760.4,301.3,1.5,59.09,88.6
+ICAR-1315,West Bengal,Soybean,Kharif,764.3,75.1,6.6,1.65,11.0
+ICAR-1316,Uttar Pradesh,Chickpea (Gram),Rabi,100.0,35.4,16.2,0.86,13.9
+ICAR-1317,West Bengal,Wheat,Rabi,160.2,181.8,4.7,3.84,18.0
+ICAR-1318,Karnataka,Sugarcane,Whole Year,884.9,171.7,27.2,44.35,1205.6
+ICAR-1319,Bihar,Rice (Paddy),Rabi,2076.6,169.0,30.4,2.55,77.4
+ICAR-1320,Tamil Nadu,Chickpea (Gram),Rabi,135.1,19.8,8.1,0.72,5.8
+ICAR-1321,Maharashtra,Maize,Rabi,712.4,145.4,19.3,2.64,51.0
+ICAR-1322,Tamil Nadu,Maize,Kharif,626.4,43.5,146.4,1.72,251.7
+ICAR-1323,Haryana,Mustard,Rabi,309.1,91.0,4.5,1.56,7.1
+ICAR-1324,Madhya Pradesh,Bajra (Pearl Millet),Kharif,564.7,47.3,106.5,1.09,116.0
+ICAR-1325,Punjab,Chickpea (Gram),Rabi,290.7,46.8,49.6,1.22,60.5
+ICAR-1326,Gujarat,Cotton,Kharif,739.1,57.9,5.8,1.09,6.3
+ICAR-1327,West Bengal,Soybean,Kharif,1017.4,37.7,7.6,1.03,7.8
+ICAR-1328,Karnataka,Rice (Paddy),Kharif,837.9,155.8,60.7,3.18,193.1
+ICAR-1329,West Bengal,Bajra (Pearl Millet),Kharif,442.0,57.8,10.0,1.45,14.5
+ICAR-1330,Gujarat,Maize,Rabi,530.0,109.1,23.6,2.67,63.1
+ICAR-1331,Haryana,Chickpea (Gram),Rabi,414.7,51.5,28.3,1.33,37.6
+ICAR-1332,Tamil Nadu,Chickpea (Gram),Rabi,396.0,31.5,13.6,0.93,12.6
+ICAR-1333,Madhya Pradesh,Maize,Kharif,701.3,122.4,70.8,2.67,189.1
+ICAR-1334,Uttar Pradesh,Cotton,Kharif,933.9,74.2,1.5,1.31,2.0
+ICAR-1335,Haryana,Sugarcane,Whole Year,1099.6,198.8,89.6,59.88,5364.9
+ICAR-1336,Punjab,Maize,Rabi,512.7,111.4,5.1,3.4,17.4
+ICAR-1337,Uttar Pradesh,Groundnut,Kharif,561.3,43.5,16.5,1.34,22.1
+ICAR-1338,Haryana,Mustard,Rabi,188.9,69.4,19.3,1.33,25.6
+ICAR-1339,Karnataka,Soybean,Kharif,149.2,83.7,24.3,1.12,27.2
+ICAR-1340,Maharashtra,Soybean,Kharif,344.4,63.5,8.4,1.27,10.7
+ICAR-1341,Maharashtra,Cotton,Kharif,974.0,150.8,42.5,1.42,60.3
+ICAR-1342,Madhya Pradesh,Mustard,Rabi,470.3,56.8,61.5,1.06,65.2
+ICAR-1343,Gujarat,Rice (Paddy),Kharif,386.9,176.4,8.5,3.31,28.1
+ICAR-1344,Madhya Pradesh,Soybean,Kharif,489.9,87.0,16.6,1.56,25.9
+ICAR-1345,Tamil Nadu,Maize,Rabi,207.4,115.3,5.6,2.67,15.1
+ICAR-1346,Madhya Pradesh,Wheat,Rabi,544.8,95.6,26.9,2.69,72.4
+ICAR-1347,West Bengal,Cotton,Kharif,611.2,95.5,9.4,1.49,14.0
+ICAR-1348,Uttar Pradesh,Soybean,Kharif,939.9,73.8,9.3,1.66,15.4
+ICAR-1349,Bihar,Sugarcane,Whole Year,2203.9,405.8,26.6,59.05,1573.0
+ICAR-1350,Punjab,Sugarcane,Whole Year,1424.5,279.9,34.9,70.71,2470.6
+ICAR-1351,Rajasthan,Groundnut,Kharif,138.8,42.2,29.1,1.06,30.8
+ICAR-1352,Madhya Pradesh,Soybean,Kharif,463.0,87.3,124.6,1.48,184.5
+ICAR-1353,Rajasthan,Sugarcane,Whole Year,2557.2,280.7,1.5,43.96,65.9
+ICAR-1354,Bihar,Bajra (Pearl Millet),Kharif,475.0,77.6,28.0,1.23,34.5
+ICAR-1355,Andhra Pradesh,Rice (Paddy),Rabi,540.8,110.7,41.4,2.84,117.5
+ICAR-1356,Gujarat,Bajra (Pearl Millet),Kharif,566.1,54.9,8.1,1.36,11.0
+ICAR-1357,West Bengal,Soybean,Kharif,271.2,69.2,65.5,1.2,78.6
+ICAR-1358,Maharashtra,Sugarcane,Whole Year,2818.9,280.0,3.0,53.37,158.6
+ICAR-1359,West Bengal,Cotton,Kharif,376.2,115.9,4.2,1.58,6.7
+ICAR-1360,Andhra Pradesh,Sugarcane,Whole Year,2431.0,279.8,20.2,59.03,1192.1
+ICAR-1361,Rajasthan,Sugarcane,Whole Year,1253.2,326.8,7.3,55.27,401.6
+ICAR-1362,Uttar Pradesh,Sugarcane,Whole Year,1090.3,265.5,3.9,60.07,233.0
+ICAR-1363,Bihar,Rice (Paddy),Rabi,1612.0,131.3,170.3,3.01,512.6
+ICAR-1364,Haryana,Cotton,Kharif,512.4,65.6,23.3,1.48,34.5
+ICAR-1365,Punjab,Bajra (Pearl Millet),Kharif,214.0,75.1,1.5,1.95,2.9
+ICAR-1366,Haryana,Mustard,Rabi,403.5,57.2,21.3,1.5,31.9
+ICAR-1367,Bihar,Soybean,Kharif,697.2,90.0,6.8,1.48,10.0
+ICAR-1368,Gujarat,Chickpea (Gram),Rabi,150.5,47.0,41.0,0.98,40.2
+ICAR-1369,Bihar,Wheat,Rabi,319.9,202.0,55.0,3.67,201.8
+ICAR-1370,Bihar,Maize,Rabi,967.9,48.6,35.0,1.51,52.9
+ICAR-1371,Bihar,Rice (Paddy),Rabi,1429.0,168.0,12.9,2.94,38.0
+ICAR-1372,Bihar,Groundnut,Kharif,360.8,65.9,94.8,1.61,152.6
+ICAR-1373,West Bengal,Mustard,Rabi,100.0,51.8,3.2,0.89,2.9
+ICAR-1374,Haryana,Mustard,Rabi,278.1,53.7,33.1,1.23,40.7
+ICAR-1375,Bihar,Soybean,Kharif,479.8,79.4,7.2,1.37,9.9
+ICAR-1376,Karnataka,Soybean,Kharif,1011.1,103.0,3.0,1.5,4.5
+ICAR-1377,Bihar,Soybean,Kharif,1009.7,38.7,1.8,1.08,2.0
+ICAR-1378,Tamil Nadu,Chickpea (Gram),Rabi,391.1,45.6,30.5,1.05,32.0
+ICAR-1379,Rajasthan,Maize,Kharif,900.0,92.9,10.8,2.03,22.0
+ICAR-1380,Maharashtra,Sugarcane,Whole Year,2424.0,252.1,3.1,54.22,168.7
+ICAR-1381,Maharashtra,Sugarcane,Whole Year,2250.2,305.5,1.5,60.66,91.0
+ICAR-1382,Madhya Pradesh,Cotton,Kharif,561.7,75.9,17.7,1.27,22.4
+ICAR-1383,Punjab,Bajra (Pearl Millet),Kharif,591.3,57.5,7.5,1.43,10.7
+ICAR-1384,Karnataka,Groundnut,Kharif,617.9,47.0,18.5,1.28,23.6
+ICAR-1385,Uttar Pradesh,Mustard,Rabi,485.5,67.9,10.6,1.34,14.2
+ICAR-1386,Maharashtra,Cotton,Kharif,1002.1,96.2,6.8,1.2,8.1
+ICAR-1387,Karnataka,Chickpea (Gram),Rabi,280.5,50.6,13.5,1.1,14.8
+ICAR-1388,Karnataka,Rice (Paddy),Kharif,247.3,98.1,31.9,1.88,59.9
+ICAR-1389,Uttar Pradesh,Mustard,Rabi,213.7,51.9,40.0,1.08,43.2
+ICAR-1390,Uttar Pradesh,Cotton,Kharif,1061.5,126.5,1.5,1.58,2.4
+ICAR-1391,Uttar Pradesh,Maize,Kharif,738.9,120.2,26.4,2.91,76.9
+ICAR-1392,Tamil Nadu,Rice (Paddy),Kharif,936.2,135.3,130.3,3.41,444.5
+ICAR-1393,Maharashtra,Sugarcane,Whole Year,1257.6,299.8,15.1,62.51,946.3
+ICAR-1394,Andhra Pradesh,Maize,Kharif,562.3,111.9,29.4,2.7,79.5
+ICAR-1395,Uttar Pradesh,Sugarcane,Whole Year,1209.1,341.8,2.6,68.33,177.0
+ICAR-1396,Gujarat,Bajra (Pearl Millet),Kharif,489.1,22.5,1.5,0.86,1.3
+ICAR-1397,Andhra Pradesh,Soybean,Kharif,662.3,63.7,8.0,1.49,11.8
+ICAR-1398,West Bengal,Soybean,Kharif,849.0,27.7,4.3,0.95,4.1
+ICAR-1399,Gujarat,Cotton,Kharif,905.6,156.8,24.6,1.81,44.6
+ICAR-1400,West Bengal,Chickpea (Gram),Rabi,572.0,50.9,6.1,1.02,6.2
+ICAR-1401,Karnataka,Rice (Paddy),Kharif,1281.6,153.9,33.2,3.18,105.6
+ICAR-1402,West Bengal,Chickpea (Gram),Rabi,511.8,60.0,11.0,1.15,12.7
+ICAR-1403,Gujarat,Cotton,Kharif,608.2,120.3,5.8,1.67,9.6
+ICAR-1404,Karnataka,Groundnut,Kharif,525.2,34.4,15.5,1.06,16.4
+ICAR-1405,Bihar,Soybean,Kharif,1078.0,61.3,38.0,1.09,41.4
+ICAR-1406,Tamil Nadu,Groundnut,Kharif,740.7,79.9,52.0,1.84,95.7
+ICAR-1407,Uttar Pradesh,Bajra (Pearl Millet),Kharif,189.6,65.6,10.4,1.4,14.6
+ICAR-1408,Gujarat,Soybean,Kharif,1019.2,78.1,37.3,1.5,56.0
+ICAR-1409,Punjab,Maize,Kharif,795.6,177.9,1.7,3.75,6.5
+ICAR-1410,Punjab,Chickpea (Gram),Rabi,255.1,43.2,20.2,1.17,23.6
+ICAR-1411,Madhya Pradesh,Chickpea (Gram),Rabi,246.9,64.9,7.6,1.2,9.1
+ICAR-1412,Rajasthan,Sugarcane,Whole Year,2260.3,153.0,5.7,40.01,227.9
+ICAR-1413,Madhya Pradesh,Mustard,Rabi,253.8,80.5,75.8,1.25,94.7
+ICAR-1414,Madhya Pradesh,Bajra (Pearl Millet),Kharif,544.8,74.9,47.8,1.26,60.2
+ICAR-1415,Andhra Pradesh,Rice (Paddy),Rabi,1545.4,67.9,17.2,1.97,34.0
+ICAR-1416,Punjab,Soybean,Kharif,1034.3,83.5,2.4,1.82,4.3
+ICAR-1417,Andhra Pradesh,Chickpea (Gram),Rabi,212.7,56.9,51.3,1.05,53.9
+ICAR-1418,Rajasthan,Soybean,Kharif,805.6,99.2,11.5,1.39,16.0
+ICAR-1419,Tamil Nadu,Wheat,Rabi,299.2,98.1,20.5,3.26,67.0
+ICAR-1420,Uttar Pradesh,Chickpea (Gram),Rabi,324.6,51.4,5.9,1.2,7.1
+ICAR-1421,Karnataka,Maize,Rabi,248.5,60.9,27.3,2.31,63.0
+ICAR-1422,Bihar,Cotton,Kharif,276.0,87.6,45.8,1.16,53.1
+ICAR-1423,Karnataka,Mustard,Rabi,235.1,44.2,71.0,0.87,61.8
+ICAR-1424,Haryana,Mustard,Rabi,478.4,94.7,4.9,1.61,7.9
+ICAR-1425,Andhra Pradesh,Wheat,Rabi,498.6,123.7,11.3,3.52,39.9
+ICAR-1426,Maharashtra,Chickpea (Gram),Rabi,468.3,58.2,31.7,1.09,34.5
+ICAR-1427,Bihar,Mustard,Rabi,475.4,94.2,39.6,1.18,46.7
+ICAR-1428,Maharashtra,Soybean,Kharif,1325.5,75.7,6.4,1.28,8.2
+ICAR-1429,Maharashtra,Groundnut,Kharif,458.9,62.7,16.7,1.58,26.4
+ICAR-1430,West Bengal,Cotton,Kharif,1247.9,94.0,68.9,1.22,84.1
+ICAR-1431,Madhya Pradesh,Wheat,Rabi,666.5,144.0,9.8,3.18,31.2
+ICAR-1432,Uttar Pradesh,Groundnut,Kharif,710.0,71.1,6.3,1.7,10.7
+ICAR-1433,Bihar,Mustard,Rabi,463.8,89.1,6.8,1.23,8.4
+ICAR-1434,Karnataka,Sugarcane,Whole Year,1522.5,340.7,7.2,69.82,503.5
+ICAR-1435,Punjab,Mustard,Rabi,321.3,94.4,81.6,1.76,143.6
+ICAR-1436,Karnataka,Mustard,Rabi,168.8,78.2,7.8,1.36,10.6
+ICAR-1437,Bihar,Rice (Paddy),Kharif,694.2,188.5,16.4,2.91,47.8
+ICAR-1438,Rajasthan,Bajra (Pearl Millet),Kharif,606.1,60.3,33.1,1.06,35.1
+ICAR-1439,Haryana,Groundnut,Kharif,378.1,31.1,13.2,1.47,19.3
+ICAR-1440,Bihar,Wheat,Rabi,774.4,129.5,4.6,2.45,11.3
+ICAR-1441,Gujarat,Bajra (Pearl Millet),Kharif,292.8,41.2,6.9,1.12,7.7
+ICAR-1442,Haryana,Groundnut,Kharif,650.2,64.6,8.1,1.71,13.9
+ICAR-1443,Gujarat,Groundnut,Kharif,417.5,45.6,7.9,1.4,11.1
+ICAR-1444,Haryana,Maize,Rabi,596.1,144.3,1.5,3.54,5.3
+ICAR-1445,Haryana,Rice (Paddy),Kharif,841.0,130.6,28.2,3.75,105.7
+ICAR-1446,Haryana,Maize,Kharif,910.1,145.9,72.8,3.6,262.1
+ICAR-1447,Tamil Nadu,Cotton,Kharif,596.6,190.9,67.5,1.87,126.3
+ICAR-1448,Andhra Pradesh,Sugarcane,Whole Year,1288.1,167.2,20.2,47.69,965.0
+ICAR-1449,Punjab,Sugarcane,Whole Year,2589.7,423.3,9.6,69.37,664.1
+ICAR-1450,Andhra Pradesh,Bajra (Pearl Millet),Kharif,339.2,75.7,7.7,1.79,13.9
+ICAR-1451,Andhra Pradesh,Sugarcane,Whole Year,3200.0,300.8,14.9,50.87,756.5
+ICAR-1452,Haryana,Sugarcane,Whole Year,1581.9,214.9,1.5,65.36,98.0
+ICAR-1453,Karnataka,Groundnut,Kharif,1046.8,64.2,10.2,1.41,14.4
+ICAR-1454,Andhra Pradesh,Maize,Rabi,935.3,119.2,15.0,3.01,45.0
+ICAR-1455,Maharashtra,Soybean,Kharif,748.1,94.4,31.6,1.52,48.0
+ICAR-1456,Haryana,Bajra (Pearl Millet),Kharif,431.4,48.1,37.3,1.38,51.4
+ICAR-1457,Andhra Pradesh,Cotton,Kharif,869.8,15.0,29.1,0.52,15.1
+ICAR-1458,Haryana,Maize,Kharif,797.4,103.8,9.3,2.92,27.1
+ICAR-1459,Maharashtra,Mustard,Rabi,213.1,109.6,31.8,1.3,41.3
+ICAR-1460,Karnataka,Rice (Paddy),Kharif,822.2,195.0,42.3,3.37,142.5
+ICAR-1461,Rajasthan,Soybean,Kharif,1058.9,100.9,42.9,1.23,52.8
+ICAR-1462,Uttar Pradesh,Rice (Paddy),Kharif,1042.8,221.3,24.9,3.64,90.5
+ICAR-1463,Andhra Pradesh,Chickpea (Gram),Rabi,264.7,46.2,1.5,1.09,1.6
+ICAR-1464,Gujarat,Groundnut,Kharif,796.5,64.2,53.1,1.73,91.9
+ICAR-1465,Tamil Nadu,Cotton,Kharif,534.2,67.5,30.8,1.37,42.2
+ICAR-1466,Maharashtra,Groundnut,Kharif,172.3,40.0,23.9,1.04,24.9
+ICAR-1467,Uttar Pradesh,Maize,Rabi,492.1,117.5,94.7,2.85,269.9
+ICAR-1468,Andhra Pradesh,Groundnut,Kharif,697.8,42.3,59.2,1.24,73.4
+ICAR-1469,Gujarat,Soybean,Kharif,1267.1,52.6,4.8,1.38,6.6
+ICAR-1470,Gujarat,Cotton,Kharif,952.2,132.8,16.0,1.64,26.2
+ICAR-1471,Haryana,Bajra (Pearl Millet),Kharif,460.7,33.9,53.0,1.09,57.7
+ICAR-1472,Haryana,Bajra (Pearl Millet),Kharif,163.1,71.4,8.8,1.57,13.8
+ICAR-1473,Maharashtra,Bajra (Pearl Millet),Kharif,727.8,67.2,4.9,1.01,5.0
+ICAR-1474,Tamil Nadu,Sugarcane,Whole Year,2178.1,430.9,1.5,71.52,107.3
+ICAR-1475,Bihar,Sugarcane,Whole Year,2142.6,324.7,7.0,53.62,377.3
+ICAR-1476,Tamil Nadu,Groundnut,Kharif,1073.7,64.3,20.8,1.55,32.2
+ICAR-1477,Haryana,Wheat,Rabi,575.6,188.3,1.5,4.42,6.6
+ICAR-1478,Rajasthan,Wheat,Rabi,481.9,154.7,164.6,3.1,510.2
+ICAR-1479,Tamil Nadu,Soybean,Kharif,620.7,100.1,1.5,1.74,2.6
+ICAR-1480,Karnataka,Mustard,Rabi,319.6,86.6,8.9,1.17,10.5
+ICAR-1481,Rajasthan,Rice (Paddy),Rabi,1125.4,116.2,1.5,2.41,3.6
+ICAR-1482,Andhra Pradesh,Soybean,Kharif,904.9,83.3,25.6,1.58,40.5
+ICAR-1483,Uttar Pradesh,Chickpea (Gram),Rabi,449.1,27.7,11.8,0.81,9.5
+ICAR-1484,Maharashtra,Wheat,Rabi,464.3,121.7,27.1,3.4,92.1
+ICAR-1485,Andhra Pradesh,Rice (Paddy),Rabi,1708.3,100.3,6.5,2.7,17.6
+ICAR-1486,Madhya Pradesh,Soybean,Kharif,449.0,47.3,4.1,1.2,4.9
+ICAR-1487,West Bengal,Cotton,Kharif,661.7,129.8,14.4,1.63,23.5
+ICAR-1488,Rajasthan,Soybean,Kharif,788.9,58.6,115.6,1.23,142.2
+ICAR-1489,Uttar Pradesh,Bajra (Pearl Millet),Kharif,295.8,95.6,14.8,1.51,22.3
+ICAR-1490,Haryana,Cotton,Kharif,673.3,136.2,9.5,1.87,17.8
+ICAR-1491,Maharashtra,Groundnut,Kharif,805.2,32.3,25.9,1.01,26.2
+ICAR-1492,Uttar Pradesh,Bajra (Pearl Millet),Kharif,356.3,53.9,23.8,1.32,31.4
+ICAR-1493,Haryana,Chickpea (Gram),Rabi,383.0,15.0,1.5,0.58,0.9
+ICAR-1494,Gujarat,Maize,Kharif,560.9,20.1,78.1,0.84,65.6
+ICAR-1495,Maharashtra,Groundnut,Kharif,994.5,67.4,20.3,1.35,27.5
+ICAR-1496,Andhra Pradesh,Mustard,Rabi,429.6,60.2,79.6,1.22,97.1
+ICAR-1497,Uttar Pradesh,Rice (Paddy),Kharif,942.3,107.7,25.7,2.79,71.7
+ICAR-1498,Madhya Pradesh,Bajra (Pearl Millet),Kharif,285.5,69.5,44.6,1.42,63.4
+ICAR-1499,Andhra Pradesh,Maize,Rabi,912.7,116.5,2.5,3.06,7.6
+ICAR-1500,Punjab,Sugarcane,Whole Year,1545.9,417.3,23.1,83.37,1923.0

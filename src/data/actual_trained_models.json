@@ -1,0 +1,134 @@
+{
+  "datasetInfo": {
+    "source": "Directorate of Economics and Statistics (DES), Ministry of Agriculture & Farmers Welfare, Government of India",
+    "recordsCount": 1500,
+    "target": "Yield (Metric Tonnes per Hectare)",
+    "features": [
+      "State",
+      "Crop",
+      "Season",
+      "Rainfall (mm)",
+      "Fertilizer NPK (kg/ha)",
+      "Area (ha)"
+    ],
+    "split": "80% Train, 20% Test (Random Seed 42, Zero Data Leakage)"
+  },
+  "benchmarks": {
+    "Ridge": {
+      "modelId": "Ridge",
+      "modelName": "Ridge Regression (L2 Regularized)",
+      "category": "Classical Linear",
+      "r2Score": 0.981,
+      "maeTonnesPerHa": 1.398,
+      "rmseTonnesPerHa": 2.204,
+      "trainingTimeSec": 0.0032,
+      "inferenceTimeMs": 0.002,
+      "parameterCount": 28
+    },
+    "RF": {
+      "modelId": "RF",
+      "modelName": "Random Forest Regressor",
+      "category": "Classical Tree Ensemble",
+      "r2Score": 0.993,
+      "maeTonnesPerHa": 0.474,
+      "rmseTonnesPerHa": 1.334,
+      "trainingTimeSec": 0.485,
+      "inferenceTimeMs": 0.19,
+      "parameterCount": 94778
+    },
+    "XGB": {
+      "modelId": "XGB",
+      "modelName": "XGBoost Regressor",
+      "category": "Gradient Boosted Trees",
+      "r2Score": 0.994,
+      "maeTonnesPerHa": 0.422,
+      "rmseTonnesPerHa": 1.24,
+      "trainingTimeSec": 0.152,
+      "inferenceTimeMs": 0.008,
+      "parameterCount": 1240
+    },
+    "VQR": {
+      "modelId": "VQR",
+      "modelName": "Variational Quantum Regressor (VQR)",
+      "category": "Quantum Variational (PennyLane)",
+      "r2Score": 0.214,
+      "maeTonnesPerHa": 7.175,
+      "rmseTonnesPerHa": 14.974,
+      "trainingTimeSec": 4.94,
+      "inferenceTimeMs": 13.72,
+      "parameterCount": 24,
+      "quantumQubits": 4,
+      "circuitDepth": 18,
+      "lossHistory": [
+        0.6673,
+        0.6289,
+        0.6051,
+        0.572,
+        0.5327
+      ]
+    }
+  },
+  "vqrWeights": [
+    [
+      [
+        3.2599819100418426,
+        1.570848979669848,
+        2.173664927707528
+      ],
+      [
+        1.9521515931800328,
+        3.4478590669522826,
+        2.0994409935546217
+      ],
+      [
+        1.1590373678291899,
+        1.0020488138293442,
+        -0.13262943846063635
+      ],
+      [
+        2.841062814141058,
+        6.422416142051517,
+        0.6155172609070714
+      ]
+    ],
+    [
+      [
+        5.945555159112377,
+        4.60784629435776,
+        4.005523111860364
+      ],
+      [
+        4.054399711365555,
+        5.194483013388102,
+        0.6717973209781256
+      ],
+      [
+        2.74865404003833,
+        3.8832641727206743,
+        3.687101598425208
+      ],
+      [
+        5.232505223230082,
+        0.45409654018276224,
+        4.339802623071069
+      ]
+    ]
+  ],
+  "scalerParams": {
+    "mean": [
+      747.8521666666666,
+      111.03800000000003,
+      24.594333333333317,
+      4.523333333333333
+    ],
+    "scale": [
+      534.6202741154747,
+      78.89916923517009,
+      26.00357285494094,
+      2.903352468364037
+    ],
+    "y_mean": 7.496058333333334,
+    "y_std": 17.081074923628115
+  },
+  "timestamp": "2026-10-14T06:07:43Z"
+}

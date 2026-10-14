@@ -1,0 +1,6 @@
+{
+  "name": "QuantumCrop AI",
+  "description": "Quantum Machine Learning dashboard for Indian agricultural productivity, analyzing crop yields with Variational Quantum Regression and classical benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
