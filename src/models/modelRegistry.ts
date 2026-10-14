@@ -1,6 +1,7 @@
 import { PredictionInput, PredictionResult } from '../types/agriculture';
 import { DemoAgronomicEngine } from './demoEngine';
 import { RealTrainedModelEngine } from './realModelEngine';
+import { dynamicQuantumEngine } from './dynamicQuantumEngine';
 import { ICropPredictionEngine, MLTrainingPipelineInfo } from './types';
 
 class ModelRegistry {
@@ -13,9 +14,10 @@ class ModelRegistry {
 
     this.engines.set(demo.id, demo);
     this.engines.set(real.id, real);
+    this.engines.set(dynamicQuantumEngine.id, dynamicQuantumEngine);
 
-    // Default to the genuinely trained machine learning models
-    this.activeEngine = real;
+    // Default to the dynamic configurable quantum engine
+    this.activeEngine = dynamicQuantumEngine;
   }
 
   registerEngine(engine: ICropPredictionEngine): void {

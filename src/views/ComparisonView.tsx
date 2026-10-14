@@ -25,6 +25,8 @@ import { CorrelationHeatmap } from '../components/Charts/CorrelationHeatmap';
 import { MetricCard } from '../components/MetricCard';
 import { modelRegistry } from '../models/modelRegistry';
 
+import { dynamicQuantumEngine } from '../models/dynamicQuantumEngine';
+
 interface ComparisonViewProps {
   currentPrediction?: PredictionResult;
 }
@@ -36,9 +38,18 @@ export const ComparisonView: React.FC<ComparisonViewProps> = ({
   const [selectedModelId, setSelectedModelId] = useState<string>('XGB');
   const [showPythonPipeline, setShowPythonPipeline] = useState<boolean>(false);
   const [copied, setCopied] = useState<boolean>(false);
+  const [dynamicBenchmarks, setDynamicBenchmarks] = useState(() => dynamicQuantumEngine.getBenchmarks());
+
+  // Subscribe to dynamic quantum architecture changes & retraining
+  React.useEffect(() => {
+    const unsub = dynamicQuantumEngine.subscribe(() => {
+      setDynamicBenchmarks(dynamicQuantumEngine.getBenchmarks());
+    });
+    return unsub;
+  }, []);
 
   const activeBenchmarks =
-    benchmarkSource === 'real' ? REAL_TRAINED_BENCHMARKS : SIMULATED_DEMO_BENCHMARKS;
+    benchmarkSource === 'real' ? dynamicBenchmarks : SIMULATED_DEMO_BENCHMARKS;
 
   const selectedModel =
     activeBenchmarks.find((m) => m.modelId === selectedModelId) ||

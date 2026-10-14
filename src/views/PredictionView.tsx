@@ -36,6 +36,7 @@ import {
 } from '../types/agriculture';
 import { validatePredictionInput, ValidationResult } from '../models/validation';
 import { modelRegistry } from '../models/modelRegistry';
+import { dynamicQuantumEngine } from '../models/dynamicQuantumEngine';
 import { MetricCard } from '../components/MetricCard';
 import { QuantumCircuitView } from '../components/QuantumCircuitView';
 
@@ -63,8 +64,24 @@ export const PredictionView: React.FC<PredictionViewProps> = ({
   const [showFormulaDetails, setShowFormulaDetails] = useState<boolean>(false);
   const [showSampleDataset, setShowSampleDataset] = useState<boolean>(false);
 
+  const [qConfig, setQConfig] = useState(() => dynamicQuantumEngine.getConfig());
+  const [qMetrics, setQMetrics] = useState(() => dynamicQuantumEngine.getActiveMetrics());
+
+  // Subscribe to dynamic quantum changes
+  useEffect(() => {
+    const unsub = dynamicQuantumEngine.subscribe(() => {
+      setQConfig(dynamicQuantumEngine.getConfig());
+      setQMetrics(dynamicQuantumEngine.getActiveMetrics());
+      // Re-evaluate with current input
+      const updated = dynamicQuantumEngine.generatePrediction(input);
+      setResult(updated);
+      onPredictionChange?.(updated);
+    });
+    return unsub;
+  }, [input, onPredictionChange]);
+
   const [result, setResult] = useState<PredictionResult>(
-    () => currentResult || (modelRegistry.getActiveEngine().predict(input) as PredictionResult)
+    () => currentResult || (dynamicQuantumEngine.generatePrediction(input) as PredictionResult)
   );
 
   const cropMeta = CROPS_CONFIG[input.crop];
@@ -79,7 +96,7 @@ export const PredictionView: React.FC<PredictionViewProps> = ({
   useEffect(() => {
     if (initialInput) {
       setInput(initialInput);
-      const updated = modelRegistry.getActiveEngine().predict(initialInput) as PredictionResult;
+      const updated = dynamicQuantumEngine.generatePrediction(initialInput) as PredictionResult;
       setResult(updated);
       onPredictionChange?.(updated);
     }
@@ -93,25 +110,25 @@ export const PredictionView: React.FC<PredictionViewProps> = ({
     }
 
     setIsSimulating(true);
-    setSimulationStage('Initializing 6-Qubit State |000000⟩...');
+    setSimulationStage(`Initializing ${qConfig.qubits}-Qubit State |0...0⟩...`);
 
     setTimeout(() => {
-      setSimulationStage('Applying ZZ-Feature Map Phase Encodings...');
+      setSimulationStage(`Applying Angle Embedding on ${qConfig.qubits} wires...`);
     }, 250);
 
     setTimeout(() => {
-      setSimulationStage('Optimizing Variational Ansatz Ry(θ)...');
+      setSimulationStage(`Evaluating ${qConfig.layers} Variational Layers with ${qConfig.entanglement} CNOTs...`);
     }, 550);
 
     setTimeout(() => {
-      setSimulationStage('Evaluating Pauli-Z Observable ⟨Z⟩...');
+      setSimulationStage(`Measuring Pauli-Z Observables ⟨Z⟩ across wires...`);
     }, 850);
 
     setTimeout(async () => {
-      const updated = (await modelRegistry.predict(input)) as PredictionResult;
+      const updated = dynamicQuantumEngine.generatePrediction(input);
       setResult(updated);
       setIsSimulating(false);
-      setSimulationStage('Simulation Complete');
+      setSimulationStage('Inference Complete');
       onPredictionChange?.(updated);
     }, 1100);
   };
@@ -218,9 +235,20 @@ export const PredictionView: React.FC<PredictionViewProps> = ({
       {/* Top Description & Presets Bar */}
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 p-4 rounded-xl bg-white border border-slate-200">
         <div>
-          <h2 className="text-base font-bold text-emerald-950">
-            Multi-Variable Crop Yield Simulation
-          </h2>
+          <div className="flex items-center gap-2">
+            <h2 className="text-base font-bold text-emerald-950">
+              Multi-Variable Crop Yield Simulation
+            </h2>
+            <span
+              className={`text-[10px] font-mono px-2 py-0.5 rounded font-semibold border ${
+                qMetrics.status === 'trained'
+                  ? 'bg-emerald-50 text-emerald-900 border-emerald-200'
+                  : 'bg-amber-50 text-amber-900 border-amber-300'
+              }`}
+            >
+              VQR: {qConfig.qubits}Q · {qConfig.layers}L · {qConfig.entanglement.toUpperCase()} ({qMetrics.status === 'trained' ? 'Trained' : 'Pending Retrain'})
+            </span>
+          </div>
           <p className="text-xs text-slate-500 mt-0.5">
             Configure Indian agro-climatic parameters to simulate Quantum VQR expectation values vs classical ensembles.
           </p>
@@ -234,7 +262,7 @@ export const PredictionView: React.FC<PredictionViewProps> = ({
               key={idx}
               onClick={() => {
                 setInput(p.input);
-                const updated = modelRegistry.getActiveEngine().predict(p.input) as PredictionResult;
+                const updated = dynamicQuantumEngine.generatePrediction(p.input) as PredictionResult;
                 setResult(updated);
                 onPredictionChange?.(updated);
               }}
@@ -821,12 +849,16 @@ export const PredictionView: React.FC<PredictionViewProps> = ({
 
           {/* Interactive Quantum Circuit Visualizer */}
           <QuantumCircuitView
+            qubits={qConfig.qubits}
+            layers={qConfig.layers}
+            entanglement={qConfig.entanglement}
             isSimulating={isSimulating}
             activeFeatureValues={{
               rainfall: input.rainfallMm,
               fertilizer: input.fertilizerKg,
               crop: input.crop,
-              state: input.state
+              state: input.state,
+              area: input.cultivatedAreaHa
             }}
           />
         </div>

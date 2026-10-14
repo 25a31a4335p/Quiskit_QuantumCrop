@@ -17,6 +17,8 @@ import { ComparisonBarChart } from '../components/Charts/ComparisonBarChart';
 import { ActiveTab } from '../components/Sidebar';
 import { PredictionInput } from '../types/agriculture';
 
+import { dynamicQuantumEngine } from '../models/dynamicQuantumEngine';
+
 interface OverviewViewProps {
   onNavigate: (tab: ActiveTab) => void;
   onSelectPreset: (preset: PredictionInput) => void;
@@ -26,6 +28,14 @@ export const OverviewView: React.FC<OverviewViewProps> = ({
   onNavigate,
   onSelectPreset
 }) => {
+  const [qMetrics, setQMetrics] = React.useState(() => dynamicQuantumEngine.getActiveMetrics());
+
+  React.useEffect(() => {
+    const unsub = dynamicQuantumEngine.subscribe(() => {
+      setQMetrics(dynamicQuantumEngine.getActiveMetrics());
+    });
+    return unsub;
+  }, []);
   return (
     <div className="space-y-6">
       {/* Hero Problem Statement & Quantum Mechanism Card */}
@@ -112,11 +122,11 @@ export const OverviewView: React.FC<OverviewViewProps> = ({
         />
         <MetricCard
           label="PennyLane Quantum VQR"
-          value="0.214"
+          value={qMetrics.status === 'stale_needs_retrain' ? 'Pending' : qMetrics.r2Score.toFixed(3)}
           unit="Test R²"
-          subtext="4-Qubit StronglyEntangling"
+          subtext={`${qMetrics.config.qubits}-Qubit · ${qMetrics.config.layers} Layers (${qMetrics.config.entanglement})`}
           icon={<Cpu className="w-4 h-4 text-emerald-800" />}
-          badge="Simulator"
+          badge={qMetrics.status === 'trained' ? 'Active PQC' : 'Pending Retrain'}
         />
         <MetricCard
           label="Fastest Inference Speed"
